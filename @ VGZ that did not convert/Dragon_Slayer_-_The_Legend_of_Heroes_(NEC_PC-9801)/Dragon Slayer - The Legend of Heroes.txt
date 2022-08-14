@@ -1,0 +1,57 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Dragon Slayer:
+                     The Legend of Heroes
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Falcom Sound Team J.D.K.
+ in particular:      Mieko Ishikawa,
+                     Masaaki Kawai
+Game developer:      Nihon Falcom
+Game publisher:      Nihon Falcom
+Game release date:   1990
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          4:51   -
+02 User Disk Creation               1:37   1:24
+03 Utility                          0:41   0:41
+04 The March of Heroes              0:26   0:21
+05 Town                             2:08   2:08
+06 Field                            2:30   1:34
+07 Dungeon                          2:15   2:08
+08 Battle                           0:41   0:41
+09 Neargead Castle                  4:04   3:04
+10 Castle                           1:13   1:12
+11 Voice of God                     2:23   1:27
+12 Event Clear                      0:07   -
+13 Ship                             1:26   1:26
+14 Pirate Island                    2:34   1:51
+15 Dragon                           1:25   1:24
+16 Ending 1                         5:05   -
+17 Ending 2                         4:09   -
+18 Game Over                        1:33   1:11
+
+Total Length                       39:08  59:40
+
+
+Notes:
+Track Names are used in Perfect Collection
+Dragon Slayer: The Legend of Heroes.
+
+This pack was made using Neko Project II VGM
+mod.
+
+Size reduction (vgm_cmp):
+    3.33 MB -> 1.78 MB  (53.4 %)
+
+
+Package history:
+1.00 2014-12-24 2ch-H: Initial release.

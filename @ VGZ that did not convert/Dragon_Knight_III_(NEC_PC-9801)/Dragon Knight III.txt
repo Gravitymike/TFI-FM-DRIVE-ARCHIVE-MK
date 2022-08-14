@@ -1,0 +1,79 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Dragon Knight III
+                     (aka: Knights of Xentar)
+System:              NEC PC-9801
+OS:                  DOS
+Music hardware:      OPN (YM2203)
+
+Music author:        Manabu Kunieda,
+                     Hiroaki Sano
+Game developer:      Elf Co. Ltd.
+Game publisher:      Elf Co. Ltd.
+Game release date:   1991-07-06
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          1:17   1:17
+02 Title                            0:31   0:31
+03 Town of Deese                    0:37   0:37
+04 Nudist Village                   0:35   0:35
+05 Town of Tyson                    0:32   0:32
+06 Strawberry Fields                0:23   0:23
+07 Little Red Riding Hood's House   0:35   0:32
+08 Fairy Village                    1:02   0:58
+09 Cat Tribe Village                0:39   0:38
+10 Inn                              0:34   0:34
+11 Secondhand Store                 0:41   0:41
+12 Weapons Dealer                   0:39   0:33
+13 Field 1                          0:41   0:41
+14 Rimtoss Mountain                 0:42   0:42
+15 Callisto's Castle                0:50   0:50
+16 Monster Battle 1                 0:30   0:30
+17 Monster Battle 2                 0:33   0:33
+18 Field 2                          0:36   0:36
+19 Dog Tribe Cave                   0:33   0:32
+20 Temple of the Messiah            0:48   0:47
+21 Final Cave                       0:43   0:38
+22 Monster Battle 3                 0:29   0:29
+23 Boss Monster Battle              1:11   1:11
+24 Game Over                        2:09   2:05
+25 ... Scene 1                      0:46   0:45
+26 Goddess' Entrance                0:42   0:42
+27 Deed Battle                      0:49   0:40
+28 Triumphant Return [Ending]       0:30   0:30
+29 Shop 1                           0:12   0:12
+30 Shop 3                           0:38   0:38
+31 ... Scene 2                      0:28   0:28
+32 ... Scene 4                      0:54   0:54
+33 Goddess' Farewell                0:37   0:37
+34 Dungeon Combat                   0:30   0:30
+35 Event 2                          0:33   0:33
+36 Boss Monster Battle 2            0:35   0:31
+37 Tower                            0:32   0:32
+38 Discovery 1                      0:07   -
+39 Discovery 2                      0:05   -
+40 Future                           0:53   0:53
+41 Future 2                         2:23   -
+42 Staff                            1:39   -
+
+Total Length                       30:41  56:30
+
+
+Notes:
+Playback via GMPv4 in Neko Project II mod
+
+Track titles based off the OST track list:
+   http://vgmdb.net/album/804
+Songs not on the OST were taken from the hoot
+XML playlists from the original PC-98 version.
+
+
+Package history:
+1.00 2014-10-13 dj.tuBIG/MaliceX: Initial rel.
