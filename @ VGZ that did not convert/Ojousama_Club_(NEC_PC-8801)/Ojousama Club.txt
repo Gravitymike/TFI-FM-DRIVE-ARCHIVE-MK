@@ -1,0 +1,49 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Ojousama Club
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Yuzo Koshiro, Tenteko,
+                     Onion, XKD, GOD
+Game developer:      DTB software
+Game publisher:      Technopolis Soft
+Game release date:   1987-07-25
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Queens (Opening 1)               0:42   0:42
+02 Theme of Girls (Opening 2)       0:23   0:23
+03 Jang Ken (Sayaka)                0:56   0:56
+04 Atend of Menuette (Minako)       0:35   0:35
+05 Tea of Onion (Tea Break)         0:14   -
+06 Twincle (Yuka)                   0:12   0:12
+07 Hard (Akiko)                     0:49   0:49
+08 Sea Side (Kazumi)                0:32   0:24
+09 Spring Skip (HItomi)             0:18   0:18
+10 Epilogue                         1:02   1:02
+11 Game Over                        0:31   -
+12 Street Run Away (Unused)         0:26   -
+13 Title Music (Unused)             1:55   1:46
+
+Total Length                        8:35  15:42
+
+
+Notes:
+Track Names are used in Music Mode.
+
+This pack was made using MESS0148 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    866 KB  -> 216 KB (24.9 %)
+
+
+Package history:
+1.00 2014-03-16 2ch-H: Initial release.
