@@ -1,0 +1,54 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Marionette Mind
+System:              NEC PC-9801
+Music hardware:      NEC PC-9801-26K (YM2203)
+
+Music author:        Takeshi Abo
+Game developer:      Studio Milk
+Game publisher:      Studio Milk
+Game release date:   1993-08-27
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in sound test order:
+Song name                           Length:
+                                    Total  Loop
+01 Doll Master                      0:55   0:42
+02 Rio                              0:56   0:56
+03 Maniac House                     1:12   1:12
+04 Man Who Smiles Thingly           1:14   -
+05 Invited to Spring Breeze         1:00   1:00
+06 Puppetry 2                       0:48   0:48
+07 Rio Vs GUKUTSU                   1:28   1:28
+08 Miracle Shock                    0:43   -
+09 Tonight                          0:41   0:41
+10 Rio Won                          1:06   1:06
+11 The GUKUTSU                      0:55   0:55
+12 Mission PINK                     0:37   0:36
+13 Sad Mind                         0:25   0:25
+14 Dream Doll                       1:09   0:55
+15 Theme of Debt Collectors         0:52   0:52
+16 Puppetry 1                       1:14   1:14
+17 Pretty Soldier Sweater Star      1:07   1:07
+18 Beyond Mind                      1:19   1:18
+19 Pinch! Pinch!                    0:25   0:21
+20 Oh! Mistake!                     0:35   0:15
+21 Marionette                       2:15   -
+22 Opening Theme                    1:11   1:11
+23 Theme of Demo                    4:58   0:29
+
+Total Length                       27:03  44:35
+
+
+Notes:
+Original track names had a number of "engrish"
+errors, corrected them.
+Thanks to 2ch-H for japanese track names.
+
+
+Package history:
+1.00 2012-12-14 tails_: Initial release.
