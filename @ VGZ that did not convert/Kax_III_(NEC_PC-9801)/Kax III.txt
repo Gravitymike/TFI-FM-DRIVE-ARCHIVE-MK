@@ -1,0 +1,73 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Kax III
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        unknown
+Game developer:      Microcabin
+Game publisher:      Microcabin
+Game release date:   1993-10-13
+
+Package created by:  Dekyo-NO
+Package version:     1.10
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Startup                          0:08   0:08
+02 Title                            0:30   -
+03 Stage Start                      0:02   -
+04 Stage 1                          2:10   1:01
+05 Stage 2, Stage 5                 0:57   0:57
+06 Stage 3                          2:06   2:06
+07 Stage 4, Stage 15                0:43   0:21
+08 Stage 6                          0:27   0:27
+09 Stage 7, Stage 10                0:26   0:26
+10 Stage 8                          0:56   0:24
+11 Stage 9                          0:45   0:34
+12 Stage 11                         0:39   0:39
+13 Stage 12, Stage 20               0:54   0:44
+14 Stage 13                         0:43   0:40
+15 Stage 14                         0:29   0:28
+16 Stage 16                         0:30   0:30
+17 Stage 17                         0:27   0:27
+18 Stage 18                         1:18   1:18
+19 Stage 19                         1:08   1:04
+20 Stage Clear                      0:04   -
+21 Miss                             0:04   -
+22 Game Over                        0:08   -
+23 Ending 1                         1:26   -
+24 Ending 2                         1:02   0:58
+25 Ending 3                         1:59   1:44
+
+Total Length                       20:02  34:58
+
+
+Notes:
+Logged with Neko Project 21 VGM mod.
+
+Some songs needed a specific voice bank
+to play correctly. They're bin files.
+
+This is a bonus game that was included on
+Dragon Half disk 4 as a gift.
+
+The composers are not confirmed, but I think
+they're Tadahiro Nitta and Yasufumi Fukuda.
+The reason why I included Yasufumi Fukuda is
+because the title theme appears in Xak: The
+Tower of Gazzel (PC-98) soundtrack album, and
+this theme is credited to him.
+Wonder if he participated in Dragon Half
+as well? There's no way to know that...
+Also, this reuses themes from previous Kax
+games.
+
+
+Package history:
+1.00 2021-09-27 Dekyo-NO: Initial rel.
+1.10 2021-09-28 Dekyo-NO: Relogged a few songs
+ with their correct voice banks.
