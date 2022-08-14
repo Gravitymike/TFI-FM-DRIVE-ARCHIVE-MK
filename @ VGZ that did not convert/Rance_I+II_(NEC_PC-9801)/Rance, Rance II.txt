@@ -1,0 +1,76 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Rance: Hikari wo Motomete
+                     / Rance II:
+                     Hangyaku no Shoujotachi
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Dragon Attack!,
+                     Ryuji Sasai,
+                     Hanns Eisler
+Game developer:      Alice Soft
+Game publisher:      Alice Soft
+Game release date:   1989-08-15 (Rance) /
+                     1990-05-15 (Rance II)
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Pleasant Town                    0:32   0:32
+02 Cave of Thieves                  0:33   0:33
+03 Princess                         0:45   0:45
+04 Hien Mansion                     0:33   0:33
+05 Sill's Theme                     0:42   0:42
+06 Vermilion of Flame (Battle)      0:51   0:51
+07 Level Shop                       0:53   0:53
+08 Inn                              0:46   0:46
+09 Kanami                           0:38   0:38
+10 Ali Theme (Shop)                 0:53   0:53
+11 Reluctance to Leave (Lavender)   0:47   0:47
+12 Reimi (Graveyard)                0:52   0:52
+13 Colosseum                        0:36   0:36
+14 Jail                             0:29   0:29
+15 Girls                            0:38   0:38
+16 Miki                             1:09   1:06
+17 Camp                             0:09   0:09
+18 Sill's Theme 2                   1:21   1:21
+19 Underground City                 1:03   1:03
+20 Underground Labyrinth            0:58   0:58
+21 Minnow Battle                    0:36   0:32
+22 Boss Battle                      0:47   0:47
+23 Shop                             0:34   0:34
+24 Pyramid Labyrinth                1:15   1:15
+25 Main Theme                       0:41   0:41
+26 Phantom Body Labyrinth           0:42   0:42
+27 Last Labyrinth                   0:46   0:46
+28 Four Girls                       0:28   0:28
+29 My Glorious Days                 0:29   0:29
+30 Elucidation of The Mystery       0:25   0:25
+31 Ending                           1:05   1:05
+32 The Talking Memories             1:15   1:06
+33 Theme of Alice                   0:29   0:29
+34 Good Luck Yukiko                 0:23   0:23
+35 Investigation End                0:35   0:35
+
+Total Length (Rance)               11:38  23:13
+Total Length (Rance II)            25:39  51:02
+
+
+Notes:
+Track Names are used in Hoot Playlist
+ and use scene.
+
+This pack was made using Neko Project II VGM
+mod.
+
+Size reduction (vgm_cmp):
+    3.45 MB -> 408 KB (11.5 %)
+
+
+Package history:
+1.00 2015-03-02 2ch-H: Initial release.

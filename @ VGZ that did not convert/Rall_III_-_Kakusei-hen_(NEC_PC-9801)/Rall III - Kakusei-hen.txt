@@ -1,0 +1,82 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Rall III: Kakusei-hen
+System:              NEC PC-9801
+OS:                  DOS
+Music hardware:      PC-9801-26K (YM2203)
+
+Music author:        Ryu Umemoto
+Game developer:      Fairy Dust
+Game publisher:      Fairy Dust
+Game release date:   1994-10-17
+
+Package created by:  Valley Bell
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Single Luster [Opening]          3:32   -
+02 Opening II                       2:06   2:06
+03 Endless Gossip [Town]            1:52   1:41
+04 Yggdrasil Temple                 2:04   2:04
+05 Pinch                            1:42   1:42
+06 Shock                            0:04   -
+07 Torirasu Village Extinction      2:56   2:56
+08 unknown                          1:24   1:06
+09 Stage Extend I                   0:16   -
+10 Stage Extend II                  1:42   -
+11 Winning Expectation [Battle I]   2:47   2:47
+12 Ending I                         5:31   3:36
+
+Total Length                       25:56  43:53
+
+
+Notes:
+The game is an adult visual novel that is based
+on adult 1984's anime called
+"Superdimension SF Legend Rall".
+
+The music is what you would expect from Ryu
+Umemoto and alternate between real bangers and
+more emotional music with pads and bells.
+
+Some songs also got an SC-55 MIDI version that
+I can recommend as well. It's just a pity that
+only 5 of the 12 songs got MIDI versions.
+
+
+Fun fact: According to Mobygames, the heroine
+is unable to lose any of the battles. I guess
+that's the reason the battle theme is called
+"Winning Expectation".
+
+
+
+Songs were logged using Neko Project 21 VGM mod
+by playing back the .M files using the
+game's sound driver (PMD 4.7g) and Kajihara's
+PMP tool.
+I used pmd2mid to help identifing the loop
+points. I still had to do some fine-tuning due
+to vibrato affecting notes during their release
+phase, which often was still ongoing when the
+internal loop happened.
+
+The song order is a very rough guess about how
+the songs could appear in the game.
+
+Each of the .M files's notes section contains
+also the following copyright notices:
+  (C)Zero One
+  (R)Staff "Y-arm"
+
+
+Size reduction (vgm_cmp):
+    3.27 MB -> 1.96 MB (59.9 %)
+
+
+Package history:
+1.00 2022-05-06 Valley Bell: Initial release.
