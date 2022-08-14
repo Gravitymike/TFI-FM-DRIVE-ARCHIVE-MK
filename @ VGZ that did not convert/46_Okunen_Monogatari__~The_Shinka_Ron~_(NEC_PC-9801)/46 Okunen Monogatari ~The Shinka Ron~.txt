@@ -1,0 +1,63 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           46 Okunen Monogatari 
+                     ~The Shinka Ron~
+System:              NEC PC-9801
+Music hardware:      NEC PC-9801-26K (YM2203)
+
+Music author:        Koichi Sugiyama
+Game developer:      Almanic
+Game publisher:      Enix
+Game release date:   1990
+
+Package created by:  Gnome
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Genesis                          1:03   0:44
+02 Opening Theme                    1:24   -
+03 Spring is Coming                 0:43   -
+04 Theme of Shrine                  0:37   0:37
+05 Field Theme A                    0:49   0:32
+06 Battle Theme                     0:27   0:25
+07 Evolution Theme                  0:21   0:21
+08 Creepy Dungeon                   1:17   0:51
+09 Theme of Goddess Gaia            0:42   0:41
+10 Sorrow                           0:59   0:41
+11 Theme of Curse                   0:24   0:24
+12 Destruction and Birth            0:15   0:14
+13 Field Theme B                    0:49   0:34
+14 Army of Atlantis                 0:26   0:23
+15 Tension!                         0:34   0:34
+16 Final Battle                     0:41   0:30
+17 End of Battle                    1:01   1:01
+18 Ending                           2:58   -
+19 Evolution Fanfare                0:03   -
+20 Good Item                        0:04   -
+21 Bad Item                         0:02   -
+22 Sugiyaman                        0:29   0:28
+23 End of Evolution                 0:52   0:30
+24 Game Over                        0:06   -
+
+Total Length                       17:05  26:33
+
+
+Notes:
+The prequel to "E.V.O.: Search for Eden".
+While it wasn't released outside of Japan,
+this game was translated by fans and is
+known as "E.V.O.: The Theory of Evolution".
+
+With Sugiyama as the composer, it has
+lots of Dragon Quest vibes.
+
+Track names are taken from the hidden
+sound test.
+
+
+Package history:
+1.00 2020-08-06 Gnome: Initial release.
