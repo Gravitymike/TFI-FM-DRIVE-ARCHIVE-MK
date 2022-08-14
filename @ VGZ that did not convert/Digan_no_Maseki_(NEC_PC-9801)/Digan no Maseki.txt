@@ -1,0 +1,77 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Digan no Maseki
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Hirohumi Banba.
+                     Psycho Sonic
+ in particular:      Haruhiko Tsuda,
+                     Yoh Ohyama,
+                     Taihei Nishimura
+ Music Arrange:      Hitoshi Sakimoto
+ Music Driver:       Hitoshi Sakimoto
+Game developer:      Artec, Studio Nue
+Game publisher:      Artec
+Game release date:   1988-04
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Wedding                          1:12   1:12
+02 Honeymoon                        0:58   0:56
+03 Fountain                         0:35   0:35
+04 Abilia Revive                    1:04   0:52
+05 Abilia Hair                      1:11   -
+06 Ending                           1:23   -
+07 Intro                            0:36   0:36
+08 Requiem                          1:00   1:00
+09 Battle                           0:24   0:24
+10 Battle 2                         0:54   0:48
+11 Cartia                           0:24   0:24
+12 Baldorn                          0:36   0:36
+13 Meldorn                          1:12   0:48
+14 Edona                            0:23   0:20
+15 Tower                            0:25   0:25
+16 Rigold                           0:32   0:32
+17 Euress                           1:20   0:53
+18 Dragon                           1:05   1:04
+19 Syouki                           1:11   1:11
+20 Cave 1                           1:17   1:13
+21 Cave 2                           0:47   0:47
+22 Cordarn                          1:15   1:00
+23 Black Dragon                     0:20   0:16
+24 Funny                            0:17   0:16
+25 Gamble                           0:22   0:22
+26 Doran                            1:21   0:53
+27 Baroque                          0:27   0:26
+28 Yoshiwara                        0:27   0:24
+29 Hotel 1                          0:39   0:39
+30 Hotel 2                          0:36   0:36
+31 Hotel 3                          0:48   0:48
+32 Hotel 4                          0:25   0:24
+33 Hotel 5                          0:34   0:34
+34 Fighter                          0:40   0:36
+35 Honeymoon 2                      1:03   -
+36 Baby                             0:21   0:21
+
+Total Length                       28:05  50:15
+
+
+Notes:
+Track Names are used in S98 Song list.
+
+This pack was made using Neko Project II VGM
+mod.
+
+Size reduction (vgm_cmp):
+    2.09 MB   -> 486 KB (22.7 %)
+
+
+Package history:
+1.00 2015-03-09 2ch-H: Initial release.
