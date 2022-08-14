@@ -1,0 +1,61 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Cyber Block Metal Orange
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Yoshio Furukawa,
+                     Hitoshi Sakimoto,
+                     Masaharu Iwata
+ Music Driver:       Hitoshi Sakimoto
+Game developer:      Cybertech Custom
+Game publisher:      Cybertech Custom
+Game release date:   1990-12
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Login Check                      0:20   0:19
+02 Opening                          1:57   1:26
+03 Ranking                          0:36   0:36
+04 Start                            0:17   0:17
+05 Stage                            0:12   -
+06 Visual 1 Tomo                    0:49   0:45
+07 Visual 2 Kazumi                  0:52   0:51
+08 Visual 3 Mika                    0:46   0:31
+09 Visual 4 Rinn                    1:08   0:41
+10 Visual 5 Cynthia                 1:35   1:21
+11 Info                             0:48   0:48
+12 Stage 1                          2:07   1:05
+13 Stage 2                          1:01   1:00
+14 Stage 3                          1:41   1:17
+15 Stage 4                          1:35   1:35
+16 Stage 5                          1:41   1:41
+17 Clear                            0:09   -
+18 Continue                         0:10   0:09
+19 Game Over                        0:03   -
+20 Top Entry                        0:51   0:51
+21 Entry 2-8                        0:41   0:20
+22 Ending                           2:35   2:03
+23 Unused                           1:11   0:59
+
+Total Length                       23:07  41:41
+
+
+Notes:
+Track Names are used in Music Mode.
+
+This pack was made using MESS0152 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    5.02 MB  -> 3.21 MB (63.9 %)
+
+
+Package history:
+1.00 2014-08-21 2ch-H: Initial release.
