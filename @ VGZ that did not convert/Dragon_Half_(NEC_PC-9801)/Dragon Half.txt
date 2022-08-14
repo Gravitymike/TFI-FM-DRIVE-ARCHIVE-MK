@@ -1,0 +1,83 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Dragon Half
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Tadahiro Nitta
+Game developer:      Microcabin
+Game publisher:      Microcabin
+Game release date:   1993
+
+Package created by:  Dekyo-NO
+Package version:     1.16
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Come On! Come On! Come and See!! 0:26   -
+02 Writhing in Agony... Aren't You  1:27   1:27
+03 An Island Where Cucco (Big Fan
+   of Bunny Cheerleader) Lives      0:57   0:48
+04 At the Beach Cucco Whistles
+   Matching the Trumpet             1:06   -
+05 Cheerful, Exciting, Where are
+   the Plains?                      1:46   1:25
+06 Crossing The Pure Shopping
+   Street by the Amusement Park's
+   Train                            1:52   1:52
+07 Shouts! The Storyteller is
+   Shouting!! "Today Let's Battle
+   Fair and Square"                 1:40   1:39
+08 What's 'nnn~, n, n~n, nnn~'?     1:21   0:39
+09 New year's Day of the Girl
+   Living in the Silk Road where
+   Snows Plenty                     2:17   2:09
+10 The Strange-Step All Night
+   Dancing Bunny Cheerleader's
+   Assaulting Trumpet Resounds!!    1:21   1:14
+11 The Immobile Unmovable Piano
+   Puffs 'Fuu-'                     1:17   1:16
+12 The Multi-Colored Fan Dancer
+   Water King & Soldiers            1:42   1:29
+13 VS Migu                          0:32   0:31
+14 VS Saucer                        0:41   0:40
+15 VS Melami                        1:36   1:23
+16 Battle Won                       0:03   -
+17 Level Up                         0:02   -
+18 Shop                             0:50   0:46
+19 Poisoned Chapter Dungeon Scene   0:50   0:49
+20 Dead Lai Underground Labyrinth   1:03   1:02
+21 Inn                              0:25   0:17
+22 Azetodeth's Island               1:15   1:09
+23 Azetodeth's Island Dungeon       1:19   1:07
+24 Battle Against Demon King
+   Azetodeth                        2:44   1:21
+25 Cutscene Jingle                  0:10   -
+26 Cutscene                         0:44   0:43
+27 Game Over 1                      0:07   -
+28 Game Over 2                      0:46   0:18
+
+Total Length                       30:19  54:24
+
+
+Notes:
+Logged using Neko Project 21 VGM mod.
+MMD3 sound driver's BGM files were
+played using GMPV4.
+
+The first 12 track names were used in SRCL-2960
+and the rest are from gameplay videos, so
+maybe these are a bit generic.
+
+
+Package history:
+1.00 2021-08-06 Dekyo-NO: Initial release.
+1.01 2021-08-06 Dekyo-NO: Relogged track 24
+ because the loop was incorrect.
+1.10 2021-08-09 Dekyo-NO: Readjusted volume.
+1.15 2021-08-19 Dekyo-NO: Fix typo.
+1.16 2021-09-21 Valley Bell: Fixed track
+ numbering, thanks Dekyo-NO.

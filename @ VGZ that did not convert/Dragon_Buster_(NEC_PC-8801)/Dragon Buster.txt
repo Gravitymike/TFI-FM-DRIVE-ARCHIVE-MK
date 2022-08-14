@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Dragon Buster
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Yuriko Keino (AC),
+                     unknown (PC88)
+Game developer:      Namco (AC);
+                     Enix (PC88)
+Game publisher:      Enix
+Game release date:   1987-08
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:13   0:13
+02 Round Start                      0:04   -
+03 Renga BGM                        0:23   0:22
+04 Catacomb BGM                     0:22   0:22
+05 Limestone Cave BGM               0:22   0:22
+06 Room Guard Combat BGM            0:06   0:06
+07 Iwayama Dragon BGM               0:22   0:22
+08 Princess Appears                 0:08   -
+09 Princess Love Scene              0:11   0:11
+10 Game Over                        0:04   -
+11 Ending                           0:17   0:17
+
+Total Length                        2:33   4:49
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2013-08-27 Sonic of 8!: Initial release.
