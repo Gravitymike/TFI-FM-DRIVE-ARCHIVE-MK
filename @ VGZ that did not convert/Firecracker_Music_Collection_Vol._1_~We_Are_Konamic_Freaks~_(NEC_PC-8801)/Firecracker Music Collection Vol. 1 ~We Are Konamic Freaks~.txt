@@ -1,0 +1,121 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Firecracker Music
+                     Collection Vol. 1
+                     ~We Are Konamic Freaks~
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Takahiro Yonemura
+Game developer:      Firecracker
+Game publisher:      Doujin/Indie
+Game release date:   1990-03-21
+
+Package created by:  Dekyo-NO
+Package version:     1.07
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Firecracker                      0:03   -
+02 Presents                         0:03   -
+03 It's A Hard Way In The Suburbs   1:09   -
+04 It's A Hard Way In The Suburbs
+   (Looped)                         1:08   1:06
+05 After The Terrible Running       1:06   -
+06 After The Terrible Running
+   (Looped)                         1:05   1:03
+07 Battle Ship                      1:01   -
+08 Battle Ship (Looped)             0:59   0:59
+09 We Followed The Sun              0:34   -
+10 We Followed The Sun (Looped)     0:33   0:33
+11 Ranking                          0:54   -
+12 Ranking (Looped)                 0:54   0:53
+13 Ranking (1st Place)              0:40   -
+14 Ranking (1st Place) (Looped)     0:39   0:39
+15 Ranking (2nd Place)              0:43   -
+16 Ranking (2nd Place) (Looped)     0:38   0:38
+17 Ranking (3rd Place)              0:19   -
+18 Ranking (3rd Place)              0:32   -
+19 Thunderbolt (Stage 2)            0:36   -
+20 Thunderbolt (Stage 2) (Looped)   0:37   0:34
+21 Slash Fighter (Stage 4)          0:39   -
+22 Slash Fighter (Stage 4) (Looped) 0:39   0:39
+23 Skywalker                        0:53   -
+24 Skywalker (Looped)               0:52   0:51
+25 Counter Attack                   0:53   -
+26 Counter Attack (Looped)          0:52   0:40
+27 Galaxian Express                 1:12   -
+28 Galaxian Express (Looped)        1:11   0:56
+29 Exciter!                         0:09   -
+30 Equipment                        0:16   -
+31 Equipment (Looped)               0:16   0:15
+32 Tabidachi                        0:20   -
+33 Tabidachi (Looped)               0:20   0:20
+34 Burning Heat                     0:25   -
+35 Burning Heat (Looped)            0:24   0:23
+36 Shooting Star                    0:23   -
+37 Shooting Star (Looped)           0:23   0:17
+38 A Way Out of The Difficulty      0:22   -
+39 A Way Out of The Difficulty
+   (Looped)                         0:19   0:19
+40 Fire Dragon                      0:21   -
+41 Fire Dragon (Looped)             0:20   0:18
+42 Maximum Speed                    0:29   -
+43 Maximum Speed (Looped)           0:28   0:22
+44 Shoot and Shoot                  0:21   -
+45 Shoot and Shoot (Looped)         0:20   0:17
+46 Ranking                          0:30   -
+47 Ranking (Looped)                 0:30   0:28
+48 Triumph                          1:09   -
+49 Triumph (Looped)                 2:08   1:00
+50 Mountain High                    1:13   -
+51 Mountain High (Looped)           1:13   1:13
+52 Power Up!                        0:36   -
+53 Power Up! (Looped)               0:36   0:34
+54 Bonus Stage                      0:26   -
+55 Boss                             0:39   -
+56 Boss (Looped)                    0:39   0:17
+57 Final Stage                      0:19   -
+58 Final Stage (Looped)             0:19   0:16
+59 Historic Soldier                 0:11   -
+60 Historic Soldier (Looped)        0:11   0:11
+61 Main BGM                         0:28   -
+62 Main BGM (Looped)                0:26   0:26
+63 Battle                           0:51   -
+64 Battle (Looped)                  0:51   0:51
+65 Ending                           1:15   -
+66 Seaside Front                    1:15   -
+67 Seaside Front (Looped)           1:15   1:15
+
+Total Length (Looped)              23:32  42:06
+Total Length (Non-Looped)          22:42  22:42
+Total Length (All)                44:18 1:02:52
+
+
+Notes:
+Logged with MESS 0.156 VGM mod.
+
+I didn't include ALL original composers in the
+music author part, I included them in the
+comments.
+I only put the music data creator/arranger.
+
+Non-looping (default) and looping versions of
+the songs are included.
+
+Takahiro Yonemura is credited under his alias
+"CHEMOOL".
+
+
+Package history:
+1.00 2021-08-03 Dekyo-NO: Initial rel.
+1.01 2021-08-07 Dekyo-NO: Retrimmed track 01.
+1.05 2021-08-19 Dekyo-NO: Fixed typo in
+ Gradius II tracks.
+1.06 2021-09-05 Valley Bell: Added more
+ playlists.
+1.07 2021-09-22 Valley Bell: Fixed screenshot
+ and author.
