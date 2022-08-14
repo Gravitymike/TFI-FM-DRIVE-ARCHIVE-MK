@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Pools of Darkness
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Takeshi Yasuda
+Game developer:      Marionette
+Game publisher:      Pony Canyon
+ Licensed By:        Strategic Simulations Inc
+Game release date:   1993-03-19
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            1:18   1:18
+02 City                             0:36   0:36
+03 Cutscene                         1:03   1:03
+04 Moonsea Area                     0:39   0:38
+05 Dungeon                          0:47   0:47
+06 Fortress                         0:25   0:25
+07 Manshoon's Tower                 0:56   0:56
+08 Drow City                        0:47   0:47
+09 Limbo                            0:19   0:18
+10 Kalistes' Land (Wilderness)      0:56   0:55
+11 Kalistes' Land (Dungeon)         1:12   1:12
+12 Tower of Marcus                  1:03   1:03
+13 Moander's Body                   0:48   0:48
+14 Moander's Heart                  1:00   1:00
+15 Cave of The Beholder             0:50   0:50
+16 Dark Phlan                       1:00   1:00
+17 The Palace of Gothmenes          0:55   0:55
+18 Combat                           0:32   0:31
+19 Ending                           0:26   0:17
+
+Total Length                       15:32  30:50
+
+
+Notes:
+Track Names are used in
+save screen and use scene.
+
+This pack was made using Neko Project II VGM
+mod.
+
+Size reduction (vgm_cmp):
+    1.11 MB -> 361 KB (31.6 %)
+
+
+Package history:
+1.00 2014-12-17 2ch-H: Initial release.

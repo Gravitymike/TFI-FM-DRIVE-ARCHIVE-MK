@@ -1,0 +1,64 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Prince of Persia
+System:              NEC PC-9801
+Music hardware:      YM2203 (PC-9801-26K)
+
+Music author:        Toshiya Yamanaka
+Game developer:      Arsys Software
+Game publisher:      Broderbund Japan
+Game release date:   1990-07-20
+
+Package created by:  Dario011
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening Demo                     2:33   -
+02 Menu Screen                      1:01   1:01
+03 Stone Room (BGM 1)               1:07   1:07
+04 Battle of Justice (vs. Guard)    1:23   1:23
+05 Decorated Room (BGM 2)           0:45   0:45
+06 Skeleton Battle (vs. Skeleton)   1:22   1:22
+07 Princess Anxiety
+   (Intermission Demo)              0:12   0:11
+08 Heart-Breaking Room (BGM 3)      1:06   1:05
+09 Doppelganger Appears             0:05   -
+10 Doppelganger Battle
+   (vs. Doppelganger)               0:56   0:56
+11 Jaffar's Room (BGM 4)            1:30   1:30
+12 Jaffar Appears                   0:10   -
+13 Battle with Jaffar (vs. Jaffar)  1:11   1:11
+14 Victory Triumph (Epilogue 1)     1:14   -
+15 Battle Trajectory (Staff Roll)   2:16   2:14
+16 Peace in Persia (Epilogue 2)     1:01   -
+17 Time Over                        0:14   -
+18 Died in Battle                   0:06   -
+19 Died by a Trap                   0:05   -
+20 Get a Weapon                     0:05   -
+21 Drink a Life Potion              0:04   -
+22 Battle Win                       0:05   -
+23 The Door Opens                   0:03   -
+24 Stage Clear                      0:04   -
+25 Drink a Life Recovery Potion     0:02   -
+
+Total Length                       18:40  31:24
+
+
+Notes:
+Track names and order are extracted from the
+S98 .txt and translated with Google Translate
+and DeepL.
+(If any song has an wrong/or badly translated
+name, let me know so I can correct it.)
+
+This pack was made using s982 0.3.
+
+
+Package history:
+1.00 2021-08-23 Dario011: Initial release.
+1.01 2021-09-22 Dario011: Fixed some Japanese
+ Track Names.
