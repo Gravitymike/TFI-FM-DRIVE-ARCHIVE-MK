@@ -1,0 +1,59 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Puyo Puyo Tsuu
+System:              NEC PC-9801
+Music hardware:      SoundBlaster 16 (YMF262)
+
+Music author:        Tsuyoshi Matsushima (C-2),
+                     Tsuyoshi Matsushima,
+                     BA.M (PC98)
+ Additional authors: Einosuke Nagao,
+                     Masanobu Tsukamoto (Puyo
+                     Puyo, tracks 9-10-14)
+Game developer:      Compile (C-2);
+                     LMS Music (PC98)
+Game publisher:      Compile / Sega (C-2) /
+                     Compile (PC98)
+Game release date:   1994 (AC) / 1995 (PC98)
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          0:52   0:38
+02 How to Play                      1:38   1:26
+03 Main Menu                        0:17   0:16
+04 Mode Select                      0:31   0:31
+05 Area A                           1:19   1:17
+06 Area B                           1:23   1:23
+07 Area C                           1:01   1:00
+08 Last Area                        1:01   0:49
+09 Warning of PuyoPuyo              3:24   3:24
+10 Stage Clear                      0:03   -
+11 Ending A                         1:07   0:37
+12 Ending B                         1:07   1:00
+13 Ending C                         1:01   1:01
+14 Sorrow of PuyoPuyo               0:13   -
+
+Total Length                       14:57  28:19
+
+
+Notes:
+First PC-98 VGM Pack that uses SoundBlaster 16 
+series of audio boards. It has a YMF262 on it 
+as a FM generator.
+
+The screenshot don't was taken on MESS (it 
+won't auto-boot PC98 games). And I didn't find 
+the game. So, I was taken this screenshot in 
+one topic in Tokugawa Forums (I forgotten the 
+name of topic). And one thing: It requires DOS,
+a thing that I didn't have in a FDD.
+
+
+Package history:
+1.00 2012-09-26 Sonic of 8!: Initial release.

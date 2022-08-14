@@ -1,0 +1,75 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Princess Maker 2
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Masahiro Kajihara
+Game developer:      Gainax
+Game publisher:      Gainax
+Game release date:   1993-06-15
+
+Package created by:  2ch-H
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Profile Determination            0:37   0:36
+02 Opening 1                        0:42   0:42
+03 Opening 2                        1:42   1:05
+04 Main Screen (Spring)             1:42   1:41
+05 Main Screen (Summer)             1:47   1:39
+06 Main Screen (Autumn)             1:52   1:51
+07 Main Screen (Winter)             1:46   1:45
+08 Main Screen (Disease)            2:21   2:11
+09 To The Castle                    1:06   0:53
+10 To The City                      1:05   1:04
+11 To The Church                    0:56   0:55
+12 Part-time Job                    0:51   0:51
+13 Training                         0:54   0:54
+14 Knight-errantry                  1:08   1:07
+15 Monster Encounter (Warning)      0:27   0:27
+16 People Encounter                 0:41   0:41
+17 Battle                           1:57   1:54
+18 Sea Vacation                     1:02   0:44
+19 Mountain Vacation                1:01   1:00
+20 Rest                             0:33   0:32
+21 Art Exhibition                   1:08   1:08
+22 Fighting Exhibition              2:03   1:46
+23 Martial-arts Bout                1:22   1:05
+24 Dance Party                      1:07   1:07
+25 Cooking Competition              0:41   0:41
+26 Awards Ceremony                  1:04   0:53
+27 Mystery (Event)                  1:03   0:58
+28 House Visitor (Event)            0:57   0:57
+29 Tension (Event)                  0:26   0:25
+30 Ending                           3:43   0:34
+31 Credits                          2:25   2:07
+32 High Shock Kang                  0:04   -
+33 Heavy Shock                      0:05   -
+34 Meeting Important People         0:07   -
+35 A Pleasant Event                 0:06   -
+36 A Sorrowful Event                0:04   -
+37 Bad End                          0:17   -
+38 Harvest Festival Fanfare         0:08   -
+
+Total Length                      41:00 1:15:13
+
+
+Notes:
+Track Names are used in
+Princess Maker 2 Remastered Soundtracks.
+
+This pack was made using MESS0148 VGM mod.
+
+Size reduction (vgm_cmp):
+    10.0 MB -> 4.03 MB (40.3 %)
+
+
+Package history:
+1.00 2013-03-20 2ch-H: Initial release.
+1.01 2014-02-20 2ch-H: Adjust the volume
+ for New internal volume of the SSG-Part.
