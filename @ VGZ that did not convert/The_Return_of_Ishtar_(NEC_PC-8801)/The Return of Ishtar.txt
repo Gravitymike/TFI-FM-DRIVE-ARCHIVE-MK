@@ -1,0 +1,58 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           The Return of Ishtar
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Junko Ozawa (AC);
+                     Kazunori Takahashi (PC88)
+Game developer:      Game Studio (AC);
+                     SPS (PC88)
+Game publisher:      SPS
+Game release date:   1987-08-08
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit Sound                     0:04   -
+02 Opening Music                    0:09   -
+03 Main Theme                       0:47   0:47
+04 Floor Clear Music                0:05   -
+05 Floor Start Music                0:03   -
+06 Druaga BGM                       0:24   0:24
+07 Ishtar BGM                       0:23   0:23
+08 Roper BGM                        1:06   1:06
+09 Quox BGM                         0:26   0:26
+10 Druaga (Entrance Hall)           0:16   0:16
+11 Clear Fanfare                    0:05   -
+12 Ending Music                     0:46   -
+13 Game Over Music                  0:06   -
+14 The Tower of Druaga
+   Name Entry BGM                   0:29   -
+15 Protect Trap 2                   0:48   0:48
+
+Total Length                        5:58  10:08
+
+
+Notes:
+Track names (except 14 and 15) are from the
+official The Return of Ishtar original
+soundtrack released on iTunes by
+Bandai Namco Entertainment.
+
+Both tracks 14 and 15 are exclusive to the
+PC88 and PC98 versions of the game, while
+track 14 is also available in the Sharp X1
+version of the game running without the YM2151
+sound expansion. Both seems to be related with
+some anti-piracy routine, but is unknown how
+they are triggered.
+
+
+Package history:
+1.00 2019-06-03 Sonic of 8!: Initial release.
