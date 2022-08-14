@@ -1,0 +1,59 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Xenon: Mugen no Shitai
+System:              NEC PC-9801
+OS:                  DOS
+Music hardware:      NEC PC-9801-26K (YM2203)
+
+Music author:        Ryu Umemoto
+Game developer:      C's Ware
+Game publisher:      C's Ware
+Game release date:   1994-12-09
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Desertstorm                      2:15   1:01
+02 Dream                            3:10   3:10
+03 Realize                          2:14   1:54
+04 Ranphar 1                        3:17   2:55
+05 Encoder                          3:01   2:42
+06 Access                           1:20   1:18
+07 Moonlight                        2:18   2:18
+08 Memory                           1:55   1:55
+09 Contact                          0:54   0:53
+10 7th                              1:42   1:39
+11 Risk                             0:53   0:40
+12 Magenta                          0:43   0:42
+13 Synaps                           2:42   2:13
+14 Fact                             3:00   2:50
+15 Past                             3:29   3:10
+16 Ranphar 2                        1:42   1:41
+17 Xenon                            3:05   2:14
+18 Magnify                          3:13   2:37
+19 The pirate                       1:50   1:50
+20 Reamer                           1:55   1:54
+21 Unknown Song                     0:39   -
+22 Risk (no SFX)                    0:47   0:40
+
+Total Length                      46:03 1:26:22
+
+
+Notes:
+Playback via GMPv4 in Neko Project II VGM mod.
+Track list adapted from official OST release:
+   http://vgmdb.net/album/9635
+
+Size reduction (vgm_cmp):
+   5.13 MB -> 2.82 MB (55.0 %)
+
+
+Package history:
+1.00 2014-12-25 dj.tuBIG/MaliceX: Initial rel.
+1.01 2015-10-04 dj.tuBIG/MaliceX: Add internal
+ titles from PMD (OPN version)
