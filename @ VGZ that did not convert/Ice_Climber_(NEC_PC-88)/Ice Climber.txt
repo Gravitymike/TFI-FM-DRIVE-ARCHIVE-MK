@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Ice Climber
+System:              NEC PC-88
+Music hardware:      YM2608 SSG
+
+Music author:        Akito Nakatsuka (VS),
+                     Unknown (PC-88)
+Game developer:      Nintendo R&D1 (VS);
+                     Hudson (PC-88)
+Game publisher:      Nintendo (VS) /
+                     Hudson (PC-88)
+Game release date:   1984 (VS) /
+                     1985 (PC-88)
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:22   -
+02 Main BGM                         0:14   0:14
+03 Bonus Stage BGM                  0:42   0:42
+
+Total Length                        1:18   2:13
+
+
+Notes:
+Converted from Ice Climber S98 Pack.
+
+
+Package history:
+1.00 2012-09-11 Sonic of 8!: Initial release.
