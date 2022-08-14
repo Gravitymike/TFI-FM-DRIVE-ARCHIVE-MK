@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Makaimura
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Ayako Mori
+Game developer:      Ascii
+Game publisher:      Ascii
+ Licensed By:        Capcom
+Game release date:   1987-07
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Stage Introduction Map           0:06   -
+02 Ground BGM (1, 2 Stage)          0:33   0:33
+03 Stage Clear                      0:04   -
+04 Cave BGM (3, 4 Stage)            0:27   0:27
+05 Final Stage Inside Great Demon
+   King's Castle BGM (5, 6 Stage)   0:33   0:33
+06 Great Demon King Stage
+   (7 Stage Boss)                   0:20   0:20
+07 2nd Lap Clear                    0:24   -
+08 Hurry Up!                        0:02   0:02
+09 Player Out                       0:01   -
+10 Game Over                        0:07   -
+11 Start Demo ~ Stage Introduction
+   (Unused)                         0:16   -
+12 Game Over (Unused)               0:05   -
+
+Total Length                        2:58   4:54
+
+
+Notes:
+Track Names are used in Capcom Music Collection
+Vol.1
+
+This pack was made using MESS0148 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    42.8 KB   -> 35.4 KB (82.7 %)
+
+
+Package history:
+1.00 2014-03-04 2ch-H: Initial release.

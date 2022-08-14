@@ -1,0 +1,97 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Madou Monogatari 1-2-3
+System:              NEC PC-9801
+OS:                  DOS
+Music hardware:      NEC PC-9801-26K
+                     (YM2203)
+
+Music author:        Masanobu Tsukamoto,
+                     Toshiaki Sakoda,
+                     Atarashi,
+                     Gaou
+Game developer:      Compile
+Game publisher:      Compile
+Game release date:   1991-11-23
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 I - OPEN THE DOOR [Opening]      1:08   0:37
+02 Madou Monogatari 1-2-3 [Title]   1:03   0:44
+03 I - TRY OUT                      2:03   2:02
+04 I - BREAK THROUGH!               0:59   0:58
+05 I - GO!                          0:54   0:54
+06 I don't feel so good...          0:21   0:21
+07 Strange Presence / An Abstract
+   Presence / Morbid Presence       0:15   0:14
+08 Enemy encounter                  0:03   -
+09 An Enemy Approaches [Battle]     1:02   0:58
+10 I - Graduation Ceremony [Ending] 1:07   1:00
+11 I - Farewell to Kindergarten
+   [Credits]                        0:44   0:43
+12 II - The Return of the Magic
+   Girl Part 2 [Opening]            0:49   0:39
+13 II - DARK LABYRINTH              1:17   1:09
+14 II - PROPHETIC DREAM             1:08   1:07
+15 Can I still go on...?            0:26   0:24
+16 II - UNDERGROUND LAIR            1:29   1:28
+17 II - DEPTHS OF HELL              0:51   0:49
+18 II - Arle and Carbuncle [Ending
+   and Credits]                     1:32   1:17
+19 III - Final Climax of the
+   Fighting Queen and Magical Girl
+   [Opening]                        0:42   0:42
+20 III - Run for your Life!
+   [Opening 2]                      0:13   0:12
+21 III - FORES' AR                  0:26   0:23
+22 III - DEEPER FORES' AR           0:36   0:36
+23 I can't... go on... anymore...   0:44   0:42
+24 III - Market Town                0:25   0:22
+25 III - ASSESSMENT MAZE            0:26   0:26
+26 III - TEMPLE GOD SANCTUARY       2:35   2:35
+27 Shopping Time!                   0:39   0:38
+28 III - Strange Friendship or
+   Relationship [Ending]            1:13   0:01
+29 III - Sunset for Magic Girl,
+   Fighting Queen, Carbuncle and
+   Minotaurus                       3:34   3:20
+30 Warning Message                  0:22   0:18
+31 Danger                           0:25   0:11
+32 Unknown                          0:05   0:04
+33 Fanfare                          0:06   -
+34 New Skill                        0:02   -
+35 Battle Lose                      0:04   -
+36 Level Up                         0:02   -
+37 Battle Win                       0:02   -
+38 Good Grade                       0:07   -
+39 Bad Grade                        0:06   -
+40 Encounter                        0:07   0:06
+41 Fail Grade                       0:03   -
+42 Danger 2                         0:30   0:24
+43 Flute                            0:04   -
+
+Total Length                       30:48  57:14
+
+
+Notes:
+This one was a long time coming since song
+title information is hard to come by, so what's
+here is what's currently known.
+
+Logged using Neko Project VGM mod v0.83.
+
+Size reduction:
+vgm_cmp: 7.54 MB -> 1.72 MB (22.8 %)
+
+
+Package history:
+0.99 2014-07-14 dj.tuBIG/MaliceX: Logging
+ effort and trimming, no tags.
+1.00 2017-10-15 dj.tuBIG/MaliceX: Added known
+ track tags and initial release.
