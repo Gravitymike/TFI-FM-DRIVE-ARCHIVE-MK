@@ -1,0 +1,68 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Star Trader
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Mieko Ishikawa
+Game developer:      Nihon Falcom
+Game publisher:      Nihon Falcom
+Game release date:   1989
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Legend                           1:19   -
+02 Launching                        1:45   1:25
+03 Angel Dust                       1:53   1:13
+04 Power-Up                         0:47   0:45
+05 Morgana Fortress                 1:04   1:02
+06 Misty Way                        1:35   1:16
+07 Legacia                          1:17   1:17
+08 The Fates                        2:15   1:33
+09 Theme of Voct                    0:56   0:46
+10 Who are You ?                    0:10   0:08
+11 Voice                            0:47   0:47
+12 Theme of Lefi                    0:41   0:37
+13 Fearful Premonition              2:23   1:54
+14 Moon Scape (Planet Surface)      1:42   1:09
+15 Laying Siege (Planet Surface)    1:54   1:54
+16 Asteroid Belt (Asteroid Surface) 0:46   0:39
+17 Escape!
+   (Escaping the Fortification)     0:56   0:39
+18 The Epulant (Vegetation Surface) 0:42   0:41
+19 Space Prober Zariah (Feeler
+   Surface)                         1:10   0:52
+20 Prominence (Prominence Surface)  1:22   0:40
+21 Wight (Final Surface)            1:35   1:10
+22 Maneuvering Station Millenile
+   (Planet Surface)                 1:04   0:35
+23 Space Carrier Nagryfal
+   (Escaping the Fortification)     1:18   1:17
+24 Missile Battleship Belsilk
+   (Vegetation Surface)             0:47   0:47
+25 Laser Battleship Gulveic
+   (Prominence Surface)             0:43   0:22
+26 Materialize (Final Boss Hyugi)   0:57   0:24
+27 Star Trader                      3:52   -
+28 Snow Blue                        1:01   1:00
+
+Total Length                      36:41 1:01:35
+
+
+Notes:
+Track Names are used in Music from Star Trader.
+
+This pack was made using MESS0152 VGM mod.
+
+Size reduction (vgm_cmp):
+    3.87 MB -> 2.33 MB (60.2 %)
+
+
+Package history:
+1.00 2014-09-03 2ch-H: Initial release.

@@ -1,0 +1,82 @@
+***********************************************
+* VGM music package                           *
+* https://vgmrips.net/                        *
+***********************************************
+
+Game name:           Sonic the Hedgehog CD
+System:              Sega Mega CD
+Music hardware:      RF5C164
+Complete music dump: Yes
+
+Music author:        Naofumi Hataya,
+                     Masafumi Ogata
+Game developer:      Sega
+Game publisher:      Sega
+Game release date:   1993-09-23 (J) / 1993 (W)
+
+Package created by:  Valley Bell
+Package version:     1.06
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Palmtree Panic Zone: Past           1:26   1:24
+Collision Chaos Zone: Past          1:19   1:15
+Tidal Tempest Zone: Past            1:12   1:12
+Quartz Quadrant Zone: Past          1:17   1:03
+Wacky Workbench Zone: Past          1:53   1:45
+Stardust Speedway Zone: Past        1:21   1:04
+Metallic Madness Zone: Past         1:13   1:13
+Unused Loop (PPZ: Present)          0:05   -
+Unused Loop (PPZ: Good Future)      0:07   -
+Unused Loop (PPZ: Bad Future)       0:07   -
+Unused Loop (CCZ: Present)          0:04   -
+Unused Loop (CCZ: Good Future)      0:04   -
+Unused Loop (CCZ: Bad Future)       0:04   -
+Unused Loop (TTZ: Present)          0:09   -
+Unused Loop (TTZ: Good Future)      0:07   -
+Unused Loop (TTZ: Bad Future)       0:07   -
+Unused Loop (QQZ: Present)          0:04   -
+Unused Loop (QQZ: Good Future)      0:08   -
+Unused Loop (QQZ: Bad Future)       0:03   -
+Unused Loop (WWZ: Present)          0:03   -
+Unused Loop (WWZ: Good Future)      0:07   -
+Unused Loop (WWZ: Bad Future)       0:04   -
+Unused Loop (SSZ: Present)          0:08   -
+Unused Loop (SSZ: Good Future)      0:04   -
+Unused Loop (SSZ: Bad Future)       0:07   -
+Unused Loop (MMZ: Present)          0:04   -
+Unused Loop (MMZ: Good Future)      0:04   -
+Unused Loop (MMZ: Bad Future)       0:07   -
+Unused Loop (Boss)                  0:04   -
+Unused Loop (Final Boss)            0:03   -
+
+Total Length                       11:45  20:42
+
+
+Notes:
+There are 2 playlists.
+The "All Tunes" playlist plays all tunes
+(ordered like above, but past-tunes follow the
+present-ones.
+The normal playlist plays only the complete
+tracks (all past-tunes).
+
+The files were compressed with OptVgmRF.
+Size reduction: 140.59 MB -> 7.70 MB (5.5 %)
+
+Ripping wasn't that hard. The unused/incomplete
+tunes were ripped by chaning the filename of
+the SNCBNK??.BIN files.
+
+You'll notice that the SNCBNK2?.BIN files were
+not ripped, but most of you already know that
+these numbers are leftovers of the deleted
+R2 zone.
+
+Release notes from project2612; names/dates lost:
+1.05 dissident93: Updated composer credits.
+
+Package history:
+1.06 2022-01-04 andlabs: Fixed txt file for
+ vgmrips.
