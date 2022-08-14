@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Arctic
+System:              NEC PC-9801
+Music hardware:      OPN (YM2203)
+
+Music author:        unknown
+Game developer:      Artdink
+Game publisher:      Pony Canyon
+Game release date:   1988-05
+
+Package created by:  MusicFox
+Package version:     1.10
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Arctic Main BGM                  0:49   0:49
+02 Game Over BGM                    0:07   -
+03 Winner BGM                       0:07   -
+
+Total Length                        1:03   1:52
+
+
+Notes:
+Song titles are from the Famicom version's
+sound test.
+
+
+Package history:
+1.00 2021-01-23 MusicFox: Initial release.
+1.10 2021-02-06 Valley Bell: Changed chip from
+ YM2608 to YM2203.
