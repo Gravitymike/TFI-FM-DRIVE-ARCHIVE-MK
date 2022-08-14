@@ -1,0 +1,57 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Barbatus no Majo
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Chiaki Ito, Misako Takagi,
+                     Camel, Masaharu Iwata
+ Music Arrange:      Masaharu Iwata
+ Music Driver:       Hitoshi Sakimoto
+Game developer:      Artec
+Game publisher:      Artec
+Game release date:   1990-03-09
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening 1                        1:01   1:01
+02 Opening 2                        0:59   0:51
+03 Opening 3                        2:06   -
+04 Village                          0:56   0:37
+05 Field                            0:54   0:53
+06 Battle                           0:30   0:30
+07 Game Over                        0:05   -
+08 Town                             1:22   1:21
+09 Castle                           0:43   0:42
+10 Dungeon                          1:20   1:15
+11 Zuckuss                          0:15   0:15
+12 Tower of Katoul                  0:55   0:48
+13 Barbatus Temple                  0:26   0:25
+14 Palace of Demon Lord             0:56   0:56
+15 Demon Lord Garmring              1:05   0:38
+16 Ending 1                         0:48   0:38
+17 Ending 2                         2:02   1:47
+18 User Disk Creation               1:05   0:59
+19 Fanfare                          0:09   -
+
+Total Length                       17:37  31:15
+
+
+Notes:
+Track Names are used in S98 Song list.
+
+This pack was made using MESS0152 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    4.43 MB  -> 3 MB (66.7 %)
+
+
+Package history:
+1.00 2014-08-21 2ch-H: Initial release.

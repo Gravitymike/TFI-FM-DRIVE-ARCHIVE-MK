@@ -1,0 +1,48 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Bomb Jack
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Tsukasa Masuko,
+                     Kyohei Tsutsumi,
+                     Lennon-McCartney
+Game developer:      Welcomecat
+Game publisher:      Nihon SoftBank
+ Licensed By:        Tehkan
+Game release date:   1985-08
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            0:09   -
+02 Ringo no Mori no Koneko Tachi
+   (BGM 1)                          0:35   0:33
+03 Clear                            0:03   -
+04 BGM 2                            0:54   0:50
+05 Got a Power Ball                 0:07   -
+06 Power Ball Appearing             0:29   0:29
+07 Special Bonus                    0:08   0:08
+08 Lady Madonna (BGM 3)             0:31   0:25
+09 Game Over                        0:04   -
+
+Total Length                        3:01   5:25
+
+
+Notes:
+Track Names are used in Bridge M1 list files
+
+This pack was made using MESS0148 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    561 KB  -> 133 KB (23.7 %)
+
+
+Package history:
+1.00 2014-03-04 2ch-H: Initial release.

@@ -1,0 +1,50 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Chakura: Challenger Club
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Bun
+Game developer:      Discovery
+Game publisher:      Discovery
+Game release date:   1993-03-14
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Chakura Rhythm                   1:02   0:51
+02 Run! Chaku Norris!               1:19   1:18
+03 Huh?                             0:18   0:18
+04 Angelfish Aria                   0:29   0:28
+05 Heart-Pounding Counseling        1:23   1:22
+06 Cherry Blossom Garden            0:26   0:26
+07 Blue, White, Cherry Blossom
+   Colors                           0:39   0:38
+08 Hello and Goodbye                0:48   0:48
+09 Green Light                      0:37   0:35
+10 Frog Polka Dot Bow Tie           0:54   0:53
+11 Trick Star                       0:19   0:19
+12 The Wonders of Good Friday       0:33   0:32
+13 Well Then!                       0:05   -
+14 Afternoon at Mushroom Village    0:08   -
+
+Total Length                        8:59  17:25
+
+
+Notes:
+Track names are sourced from the Music Mode.
+
+This pack was made using Neko Project 21 VGM
+mod.
+
+Size reduction (vgm_cmp):
+    5.56 MB -> 492 KB (8.65 %)
+
+
+Package history:
+1.00 2022-05-14 GTheGuardian: Initial release.

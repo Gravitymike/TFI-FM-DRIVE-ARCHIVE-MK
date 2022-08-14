@@ -1,0 +1,48 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Cattle Mutilation
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Yasuhisa Watanabe,
+                     Yasushi Takeda,
+                     TENTEKO, KAMITAMA
+Game developer:      Onion Soft
+Game publisher:      Onion Soft
+Game release date:   1993
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Mutilated City                   1:00   0:12
+02 Here Comes... Ebes               0:31   0:31
+03 Mutilation Over                  0:03   -
+04 Night of the Ranch               0:51   0:44
+05 Fantastic Ruin                   0:13   0:12
+06 Ebes Step                        0:40   0:40
+07 Dancing in the Back of the Moon  0:14   0:11
+08 Further                          0:12   0:12
+09 The Last Day                     1:16   1:11
+10 Explode                          0:05   -
+11 Take Me Home, Ebes               0:57   0:50
+
+Total Length                        6:00  10:43
+
+
+Notes:
+Track names are sourced from the Music Mode.
+
+This pack was made using Neko Project 21
+VGM mod.
+
+Size reduction (vgm_cmp):
+    976 KB -> 421 KB (43.1 %)
+
+
+Package history:
+1.00 2022-04-23 GTheGuardian: Initial release.
