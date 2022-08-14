@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Super Mario Bros. Special
+System:              NEC PC-88
+Music hardware:      YM2203 SSG
+
+Music author:        Koji Kondo (NES original),
+                     Unknown (PC-88 port)
+Game developer:      Nintendo (NES original);
+                     Hudson (PC-88 port)
+Game publisher:      Nintendo (NES original) /
+                     Hudson (PC-88 port)
+Game release date:   1985 (NES original) /
+                     1986 (PC-88 port)
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Running About                    1:58   1:55
+02 Underground                      0:17   0:17
+03 Swimming Around                  0:28   0:26
+04 Bowser's Castle                  0:10   0:10
+05 Invincible                       0:03   0:03
+06 Hurry!                           0:02   -
+07 Level Complete                   0:06   -
+08 Bowser's Castle Complete         0:09   -
+09 Saved the Princess               0:13   -
+10 Miss                             0:03   -
+11 Game Over                        0:05   -
+
+Total length                        3:34   6:24
+
+
+Notes:
+Track names comes from a NSF playlist.
+
+
+Package history:
+1.00 2012-08-17 Sonic of 8!: Initial release.
