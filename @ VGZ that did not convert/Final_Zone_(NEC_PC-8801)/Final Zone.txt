@@ -1,0 +1,48 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Final Zone
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Nobuhito Koise
+Game developer:      Wolf Team
+Game publisher:      Telenet Japan
+Game release date:   1986-05
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Telenet Logo                     0:17   -
+02 Comission of Wolf (Visual)       1:56   -
+03 Final Zone (Opening)             2:15   -
+04 Select Scene                     0:07   0:07
+05 Destination                      0:20   -
+06 Zone Attack! (BGM 1)             0:51   0:51
+07 Menace of Welder (BGM 2)         0:58   0:58
+08 Death Game (Pinch)               0:51   0:51
+09 Day Dream is Over (Bad End)      2:10   -
+10 Final Zone BGM Mode (BGM 3)      1:07   1:07
+11 Legend of -GN16-B- (Bad End 2)   1:55   -
+12 Fly Away (Happy End)             2:35   -
+
+Total Length                       15:23  19:17
+
+
+Notes:
+Track Names are used in
+ FINAL ZONE PC-8801 Remastered Soundtracks.
+
+This pack was made using MESS0152 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    915 KB  -> 157 KB (17.1 %)
+
+
+Package history:
+1.00 2014-08-21 2ch-H: Initial release.

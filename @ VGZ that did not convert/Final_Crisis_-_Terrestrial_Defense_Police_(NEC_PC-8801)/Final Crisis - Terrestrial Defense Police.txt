@@ -1,0 +1,51 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Final Crisis: Terrestrial
+                     Defense Police
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Daisuke Takahashi
+Game developer:      Techno Grard
+Game publisher:      Techno Grard
+Game release date:   1991
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Open-Title                       0:34   0:34
+02 Opening                          1:04   -
+03 Space                            1:18   1:18
+04 Crisis!!                         0:35   0:32
+05 Complete                         0:03   -
+06 You Did It                       0:12   -
+07 Reality                          0:27   -
+08 Plant                            0:23   0:23
+09 Asteroids                        0:51   0:51
+10 Out Space                        0:53   0:50
+11 X-Range!                         0:36   0:35
+12 Intriga                          0:08   0:08
+13 Base                             5:04   3:48
+14 Ending                           0:27   0:26
+15 Staff-Roll                       1:03   1:02
+16 Game Over                        0:04   -
+17 Continue                         0:09   -
+18 Name Entry                       0:38   0:38
+
+Total Length                       14:28  25:32
+
+
+Notes:
+Track names are from the Music Mode.
+
+This pack was made using MAME 0.188 VGM mod.
+(Custom Build)
+
+
+Package history:
+1.00 2018-04-27 GTheGuardian: Initial release.
