@@ -1,0 +1,148 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Garudius '95
+System:              NEC PC-9801
+OS:                  DOS
+Music hardware:      NEC PC-9801-26K (YM2203)
+
+Music author:        Konami Kukeiha Club
+                     (original), YUM (G '95)
+ Original Composers (in-game order):
+   Gradius:          Miki Higashino
+   Salamander:       Yoshiaki Hatano,
+                     Miki Higashino
+   Gradius II (AC):  Shinji Tasaka,
+                     Motoaki Furukawa,
+                     Kenichi Matsubara,
+                     Seiichi Fukami
+   Gradius II (MSX): Masahiro Ikariko,
+                     Motoaki Furukawa
+   Gofer no Yabou Episode II (MSX):
+                     Kazuhiko Uehara,
+                     Kinuyo Yamashita,
+                     Michiru Yamane,
+                     Motoaki Furukawa,
+                     Yukie Morimoto
+   Gradius III:      Junichiro Kaneda,
+                     Seiichi Fukami,
+                     Miki Higashino,
+                     Kozo Nakamura,
+                     Mutsuhiko Izumi
+Game developer:      CO2-PRO
+Game publisher:      CO2-PRO
+Game release date:   1995
+
+Package created by:  Dario011
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:01   -
+02 Beginning Of The History
+   (Air Battle)                     0:25   0:17
+03 Challenger 1985 (Stage 1 BGM)    0:23   0:23
+04 Beat Back (Stage 2 BGM)          0:22   0:22
+05 Blank Mask (Stage 3 BGM)         0:21   0:21
+06 Free Flyer (Stage 4 BGM)         0:23   0:23
+07 Mazed Music (Stage 5 BGM)        0:19   0:18
+08 Mechanical Globule (Stage 6 BGM) 0:34   0:34
+09 Final Attack (Stage 7 BGM)       0:23   0:23
+10 Aircraft Carrier (Boss)          0:08   0:07
+11 Game Over                        0:05   -
+12 Historic Soldier (Ranking)       0:11   0:11
+13 Credit                           0:01   -
+14 Power of Anger (Stage 1 BGM)     0:33   0:24
+15 Fly High (Stage 2 BGM)           0:30   0:24
+16 Planet Ratis (Stage 3 BGM)       0:36   0:24
+17 Starfield (Stage 4 BGM)          0:36   0:28
+18 Burn the Wind (Stage 5 BGM)      0:31   0:25
+19 Destroy Them All (Stage 6 BGM)   0:37   0:31
+20 Aircraft Carrier
+   (Gradius Boss BGM)               0:17   0:14
+21 Poison of Snake (Boss BGM)       0:38   0:38
+22 Peace Again (Ending)             0:37   -
+23 Crystal Forever (Game Over)      0:09   0:08
+24 Prelude of Legend (Title Demo)   0:58   -
+25 Invitation (Select)              0:51   0:29
+26 Departure for Space
+   (Air Battle 1)                   0:44   0:27
+27 Sand Storm (Stage 1 BGM)         0:50   0:50
+28 Aqua Illusion (Stage 2 BGM)      0:48   0:40
+29 In The Wind (Stage 3 BGM 1)      1:11   0:53
+30 A Long Time Ago (Stage 3
+   Hidden BGM)                      1:47   1:47
+31 Underground (Stage 3 BGM 2)      3:50   3:46
+32 Dark Force (Boss)                0:07   0:07
+33 Congratulations
+   (Beginner Ending)                0:14   -
+34 High Speed Dimension
+   (Stage 4 BGM)                    0:46   0:44
+35 Try to Star (Air Battle 2)       0:26   0:26
+36 Easter Stone (Stage 5 BGM)       1:08   1:08
+37 Dead End Cell (Stage 6 BGM)      1:04   0:55
+38 Fire Scramble (Stage 7 BGM)      0:48   0:48
+39 Cosmo Plant (Stage 8 BGM)        1:01   1:01
+40 Crystal Labyrinth (Stage 9 BGM)  1:08   1:08
+41 Mechanical Base (Stage 10 BGM 1) 0:40   0:38
+42 Final Shot (Stage 10 BGM 2)      0:39   0:39
+43 Escape to The Freedom
+   (High Speed Escape)              0:15   0:13
+44 Return to The Star (Ending)      1:12   -
+45 Game Over                        0:08   -
+46 King of Kings (Ranking)          0:32   0:29
+47 A Fighter (Boss)                 0:20   0:13
+48 Take Care! (Boss)                0:13   0:13
+49 Fighter Blood (Boss)             0:25   0:22
+50 Departure for Space
+   (Air Battle 1, no intro)         0:28   0:27
+
+Total Length (ingame use)          24:31  44:48
+Total Length                       31:15  56:31
+
+
+Notes:
+Track names and order are from hoot xml set
+for track order, and
+"Gradius Ultimate Collection" (LC-1949~56) and
+KONAMI SHOOTING COLLECTION (LC-2039~48)
+for the tags respectively.
+
+Playback via GMPv4 (with NAX Sound Driver)
+in Neko Project II VGM mod.
+
+There is a playlist file (m3u) that has
+the order of the songs that ARE used in-game,
+also in the vgms notes are the names of the
+music files and their in-game use.
+
+Track list adapted from hoot xml set, the
+game order is:
+Tracks 01~12: Gradius (Arcade)
+Tracks 13~23: Salamander (Arcade)
+Tracks 23~46: Gradius III (Arcade)
+Track 47: Nemesis 2 (MSX)
+Track 48: Gradius II: Gofer no Yabou /
+          Vulcan Venture (Arcade)
+Track 49: Nemesis 3 / Gofer no Yabou:
+          Episode II (MSX)
+
+Note: only some tracks are used in-game,
+to see which ones are used, see the VGM notes,
+and there may be errors. It was hell to put
+the notes of each one of the files and
+I made mistakes all the time.
+
+And track 14 has a problem at the beginning of
+the song, in the SSG channels, even if it
+happens only at the beginning, and it happens
+in both VGMPlay 0.40.9 and 0.50.1
+(only counting the Winamp plugin).
+
+
+Package history:
+1.00 2021-08-17 Dario011: Initial release.
+1.01 2021-08-25 Dario011: Fixed some notes
+ in tracks.
