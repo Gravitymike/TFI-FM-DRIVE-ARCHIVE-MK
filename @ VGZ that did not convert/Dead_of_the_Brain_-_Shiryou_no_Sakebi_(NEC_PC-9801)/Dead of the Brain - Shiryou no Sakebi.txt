@@ -1,0 +1,43 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Dead of the Brain:
+                     Shiryou no Sakebi
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Ryu Takami, Marina
+Game developer:      Fairytale
+Game publisher:      IDES
+Game release date:   1992-04
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          1:57   0:42
+02 BGM 1                            1:05   0:57
+03 Cooger's Home                    1:40   1:28
+04 BGM 2                            0:44   0:37
+05 BGM 3                            0:52   0:46
+06 BGM 4                            0:54   0:53
+07 BGM 5                            1:07   1:07
+08 Cathy, Ending                    1:17   1:17
+09 Shock                            0:15   -
+
+Total Length                        9:50  17:36
+
+
+Notes:
+This pack was made using Neko Project 21 VGM
+mod.
+
+Size reduction (vgm_cmp):
+    2.51 MB -> 1.38 MB (55.1 %)
+
+
+Package history:
+1.00 2022-06-30 GTheGuardian: Initial release.

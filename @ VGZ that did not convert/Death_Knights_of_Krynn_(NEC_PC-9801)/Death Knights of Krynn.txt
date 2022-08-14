@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Death Knights of Krynn
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        unknown
+ Sound Driver:       Hitoshi Sakimoto
+Game developer:      Opera House
+Game publisher:      Pony Canyon
+ Licensed By:        Strategic Simulations Inc
+Game release date:   1993-08-20
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening Theme                    1:02   1:01
+02 Town                             1:15   1:08
+03 Dungeon-1                        1:06   1:06
+04 Dungeon-2                        1:22   1:22
+05 Camp                             0:58   0:54
+06 Battle Normal                    1:09   0:46
+07 Mid Boss                         1:00   0:59
+08 Last Boss                        1:14   1:07
+09 Map                              0:31   0:27
+10 Event Shocking                   1:15   0:50
+11 Event Encounter                  0:30   0:30
+12 Event Farewell                   1:12   1:12
+13 Event Anger                      0:50   0:50
+14 Event Ally NPC                   0:42   0:42
+15 Event Enemy NPC                  0:51   0:50
+16 Character Making                 0:48   0:47
+17 Ending Event                     0:41   0:33
+18 Annihilation                     0:06   -
+19 Maya's Theme                     0:11   0:10
+
+Total Length                       16:44  31:55
+
+
+Notes:
+Track Names are used in midi song name.
+
+This pack was made using Neko Project II VGM
+mod.
+
+Size reduction (vgm_cmp):
+    2.44 MB -> 1.14 MB (46.5 %)
+
+
+Package history:
+1.00 2014-12-17 2ch-H: Initial release.
