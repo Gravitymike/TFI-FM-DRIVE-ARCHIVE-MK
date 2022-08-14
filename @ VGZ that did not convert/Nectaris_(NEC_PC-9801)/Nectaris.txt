@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Nectaris
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        June Chikuma
+Game developer:      SystemSoft
+Game publisher:      SystemSoft
+ Licensed By:        Hudson Soft
+Game release date:   1992
+
+Package created by:  2ch-H
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            0:10   -
+02 Menu                             0:06   0:05
+03 Manual                           3:08   3:07
+04 Password                         0:33   0:33
+05 Opening                          0:58   -
+06 Operation Map                    0:24   0:23
+07 Player's Turn                    0:53   0:52
+08 Enemy's Turn                     0:38   0:38
+09 Player's Last Stage              0:53   0:53
+10 Enemy's Last Stage               0:49   0:49
+11 Factory Captured!                0:06   -
+12 Stage Clear                      0:12   0:07
+13 Game Over                        0:44   -
+14 Player's Victory                 0:52   0:51
+15 Player's Defeat                  0:51   0:48
+16 Enemy's Victory                  0:44   0:43
+17 Enemy's Defeat                   0:53   0:51
+18 Ending                           1:13   1:03
+
+Total Length                       14:07  25:51
+
+
+Notes:
+Track Names are used in Kaminarimon HES
+Playlist.
+
+This pack was made using MESS0148 VGM mod.
+
+Size reduction (vgm_cmp):
+    3.79 MB -> 804 KB (20.6 %)
+
+
+Package history:
+1.00 2013-08-02 2ch-H: Initial release.
+1.01 2014-02-20 2ch-H: Adjust the volume
+ for New internal volume of the SSG-Part.

@@ -1,0 +1,88 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Multi Game Scripter
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Youta Kitagami,
+                     Mitsuhiro Arisaka,
+                     Ken Yamamoto,
+                     Ludwig van Beethoven
+Game developer:      ASCII
+Game publisher:      ASCII
+Game release date:   1994-12
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 RPG: Prologue / Ending           1:05   1:05
+02 RPG: Opening                     0:58   0:58
+03 RPG: Ending / Prologue           1:39   1:39
+04 RPG: Game Over                   0:22   0:22
+05 RPG: Revive                      0:03   -
+06 RPG: City                        0:58   0:58
+07 RPG: Field                       0:51   0:51
+08 RPG: Battle                      0:51   0:51
+09 RPG: Boss                        1:04   0:51
+10 RPG: Dungeon                     0:44   0:43
+11 Sports: Soccer 1                 0:50   0:50
+12 Sports: Soccer Goal              0:04   -
+13 Sports: Soccer 2                 0:50   0:50
+14 Sports: Baseball                 0:18   0:15
+15 Quiz 1: Opening                  0:07   0:07
+16 Quiz 2: Answer!                  0:13   -
+17 Quiz 3: Correct Answer!          0:02   -
+18 Quiz 4: Orchestra Hit!           0:01   -
+19 Quiz 5: Failure!                 0:04   -
+20 Quiz 6: Failure!                 0:04   -
+21 Quiz 7: Foolish!                 0:05   -
+22 Quiz 8: Punchline!               0:03   -
+23 General Purpose 1: Stakeout      1:13   0:31
+24 General Purpose 2: Fun
+   Atmosphere                       0:35   0:34
+25 General Purpose 3: Bounce        0:42   0:40
+26 General Purpose 4: Folklore      0:43   0:43
+27 General Purpose 5: Pursuit       1:08   1:08
+28 General Purpose 6: Nostalgic
+   Atmosphere                       1:26   1:26
+29 General Purpose 7: Sad
+   Atmosphere                       1:39   1:39
+30 General Purpose 8                0:36   0:35
+31 General Purpose 9                0:37   0:37
+32 General Purpose 10: Rhythm Loop  0:17   0:17
+33 General Purpose 11: Loop         0:16   0:16
+34 General Purpose 12: Ode to Joy
+   (Beethoven)                      0:27   -
+35 General Purpose 13: Jazz         0:50   0:50
+36 General Purpose 14: Rock Loop    0:50   0:50
+37 General Purpose 15: Loop         0:14   0:14
+38 General Purpose 16: Samba Loop   0:16   0:16
+39 General Purpose 17: Ending       0:11   -
+40 Special 1: Sutra                 0:54   0:54
+41 BGM 41                           0:53   0:37
+42 B_Class Action Movie Modoki      1:25   1:14
+43 Beat YK "Tsu.Ji.Gi.Li"           2:05   2:04
+44 Trans_Allah                      4:03   4:03
+45 C.C+C.B.                         2:58   2:58
+46 OPN Bomber                       2:43   2:43
+
+Total Length                      38:20 1:13:47
+
+
+Notes:
+Track names are sourced from the MML Files.
+
+This pack was made using Neko Project 21 VGM
+mod.
+
+Size reduction (vgm_cmp):
+    4.12 MB -> 2.03 MB (49.4 %)
+
+
+Package history:
+1.00 2022-06-17 GTheGuardian: Initial release.
