@@ -1,0 +1,92 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Doukyusei
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Manabu Kunieda
+Game developer:      elf
+Game publisher:      elf
+Game release date:   1992-12-17
+
+Package created by:  2ch-H
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            0:38   0:32
+02 Takurou's Room 1                 0:32   0:32
+03 Takurou's Room 2                 0:30   0:30
+04 Takurou's Room 3                 0:40   0:32
+05 Tarou's Theme                    0:26   0:26
+06 Ako's Theme                      0:33   0:31
+07 Chiharu's Theme                  0:32   0:31
+08 Hiromi's Theme                   0:32   0:32
+09 Kaori's Theme                    0:33   0:32
+10 Kurumi's Theme                   0:44   0:41
+11 Mai's Theme                      1:19   1:05
+12 Mako's Theme                     0:40   0:39
+13 Miho's Theme                     0:32   0:32
+14 Misa's Theme                     0:39   0:31
+15 Natsuko's Theme                  0:36   0:34
+16 Reiko's Theme                    0:31   0:31
+17 Satomi's Theme                   0:25   0:25
+18 Yayoi's Theme                    0:36   0:36
+19 Teacher Yoshiko's Theme          0:39   0:34
+20 H Scene 1                        0:37   0:37
+21 H Scene 2                        0:36   0:35
+22 H Scene 3                        0:48   0:39
+23 H Scene 4                        0:20   0:20
+24 Panic!                           0:24   0:23
+25 Old Woman Fortune Teller         0:37   0:37
+26 Old Man Fourth Dimension         0:31   0:31
+27 Haunted House                    0:27   0:26
+28 Town Moving Theme                0:34   0:33
+29 Inside School Theme              0:40   0:40
+30 Amusement Park With Natsuko      0:43   0:43
+31 Amusement Park Theme             0:33   0:33
+32 Quiz Brothers                    0:21   0:21
+33 August 31 Theme                  0:37   0:37
+34 Date In Yabuki Park              0:29   0:28
+35 Bar                              0:59   0:58
+36 Graduation Scene                 0:42   0:41
+37 After H                          0:25   0:25
+38 SE Confession Sucess             0:03   -
+39 Confession Sucess                0:40   0:36
+40 Confession Friend                0:41   0:37
+41 SE Confession Failure 1          0:03   -
+42 SE Confession Failure 2          0:04   -
+43 SE Confession Failure 3          0:02   -
+44 SE Confession Failure 4          0:02   -
+45 Confession Failure               0:47   0:45
+46 Ending                           1:06   1:04
+47 Piano                            0:16   -
+48 Violin                           0:13   -
+49 Piano (Unused)                   0:19   -
+50 Violin (Unused)                  0:13   -
+51 Unused 1                         0:31   0:31
+52 Unused 2                         0:25   0:25
+53 Unused 3                         0:42   0:36
+54 Unused 4                         0:26   0:26
+55 Unused 5                         0:48   0:46
+
+Total Length                       29:23  56:00
+
+
+Notes:
+Track Names are used in Doukyusei OSTs
+and Hoot Playlist.
+
+This pack was made using MESS0148 VGM mod.
+
+Size reduction (vgm_cmp):
+    5.40 MB -> 1.82 MB (33.7 %)
+
+
+Package history:
+1.00 2013-03-01 2ch-H: Initial release.
+1.01 2014-02-20 2ch-H: Adjust the volume
+ for New internal volume of the SSG-Part.
