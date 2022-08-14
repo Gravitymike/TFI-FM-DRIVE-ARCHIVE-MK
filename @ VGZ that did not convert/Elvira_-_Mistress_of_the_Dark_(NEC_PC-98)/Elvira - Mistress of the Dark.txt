@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Elvira: Mistress of the
+                     Dark
+System:              NEC PC-98
+Music hardware:      YM2203
+
+Music author:        Jezz Woodroffe
+Game developer:      Horror Soft
+Game publisher:      Acclaim Japan
+Game release date:   1992-11-27 (J)
+
+Package created by:  MusicFox
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main Theme                       2:26   1:41
+02 Castle                           2:52   2:48
+03 Dungeon                          2:24   2:24
+04 Garden                           1:47   1:47
+05 Altar                            3:11   3:11
+06 Crypt                            2:28   2:28
+
+Total Length                       15:09  29:29
+
+
+Notes:
+Special thanks to Gnome for assistance with
+ripping the VGMs.
+
+
+Package history:
+1.00 2020-11-01 MusicFox: Initial release.

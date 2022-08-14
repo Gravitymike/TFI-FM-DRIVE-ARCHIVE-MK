@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Elevator Action
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Yoshio Imamura (AC);
+                     unknown (PC88)
+Game developer:      Pacific Kougyou (AC);
+                     Nidecom Carry (PC88)
+Game publisher:      Nidecom Carry
+Game release date:   1986
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main BGM 1                       0:23   0:23
+02 Main BGM 2                       0:23   0:23
+03 Main BGM 3                       0:23   0:23
+04 Main BGM 4                       0:23   0:23
+
+Total Length                        1:31   3:02
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2020-08-17 Sonic of 8!: Initial release.
