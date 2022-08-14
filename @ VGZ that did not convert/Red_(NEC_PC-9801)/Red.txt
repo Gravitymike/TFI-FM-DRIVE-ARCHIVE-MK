@@ -1,0 +1,50 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Red
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Tenpei Sato
+Game developer:      Discovery
+Game publisher:      Discovery
+Game release date:   1992-12-19
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Lagrange Point                   1:04   0:52
+02 Grey Time                        1:21   1:18
+03 Tears of Eos                     1:12   1:12
+04 Big Blue                         1:10   1:08
+05 Around the Clock                 1:15   1:13
+06 Movin' On                        1:11   1:11
+07 Darkwalk                         2:04   1:37
+08 Blast!                           0:17   0:14
+09 Yes, No                          1:13   1:11
+10 Snowbird Fantasy                 1:14   1:13
+11 Death and Resurrection           1:12   1:10
+12 Overdrive                        1:13   1:03
+13 Ready to Space                   1:34   0:57
+14 Glass Fire                       1:55   1:01
+15 Next                             0:58   0:46
+
+Total Length                       18:53  34:58
+
+
+Notes:
+Track names are sourced from the Music Mode and
+"RED ~ THE ADVENTUROUS SEQUENCE" (POCH-2205).
+
+This pack was made using MAME 0.236 VGM mod.
+
+Size reduction (vgm_cmp):
+    12.3 MB -> 1.25 MB (10.2 %)
+
+
+Package history:
+1.00 2022-05-06 GTheGuardian: Initial release.

@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Robo Wres 2001
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        unknown (AC / PC88)
+Game developer:      Sanritsu (AC);
+                     Micronet (PC88)
+Game publisher:      Sega (AC) /
+                     Micronet (PC88)
+Game release date:   1986-01
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Technique Select                 0:09   0:08
+02 Fight Start                      0:08   -
+03 Main BGM                         0:04   0:04
+04 Fight Win                        0:08   -
+05 Game Over                        0:04   -
+
+Total Length                        0:33   0:45
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2013-08-22 Sonic of 8!: Initial release.
