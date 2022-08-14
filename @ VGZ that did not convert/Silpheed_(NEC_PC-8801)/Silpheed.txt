@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Silpheed
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Masakuni Mitsuhashi,
+                     Hibiki Godai,
+                     Mecano Associates
+ in particular:      Fumihito Kasatani,
+                     Nobuyuki Aoshima
+Game developer:      Game Arts
+Game publisher:      Game Arts
+Game release date:   1986-12-05
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 The Legend of Silpheed (Opening) 1:43   1:07
+02 Title                            0:03   -
+03 Silf of Wind I (Area 1, 5, 15)   0:52   0:49
+04 Battlestar Olleyus (Boss 1)      0:38   0:38
+05 Silf of Wind II (Area 2, 9, 19)  0:52   0:49
+06 Battle on Orbit (Area 3, 8, 12,  1:17   1:17
+07 Going in Fortress
+   (Area 4, 7, 13. 18)              1:24   1:24
+08 Double Star (Demo 1)             0:35   0:35
+09 Battlestar Olleyus Type 2
+   (Boss 2, Area 10, 20)            0:38   0:38
+10 Landing Base (Demo 2)            0:19   0:19
+11 Asteroid (Area 6, 11, 14, 17)    1:18   1:03
+12 King Jupiter (Demo 3)            0:44   0:43
+13 Return of Xacalite (Last Boss)   1:45   1:12
+14 Little Moments Peace (Ending)    3:09   -
+
+Total Length                       15:16  25:52
+
+
+Notes:
+Track Names are used in
+Game Arts Best Collection.
+
+This pack was made using MESS0152 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    929 KB  -> 777 KB (83.6 %)
+
+
+Package history:
+1.00 2014-03-16 2ch-H: Initial release.
