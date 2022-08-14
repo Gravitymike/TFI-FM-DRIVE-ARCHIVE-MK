@@ -1,0 +1,57 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Cosmic Psycho
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Panda, Akira Satou
+Game developer:      Failytale, Cocktail Soft
+Game publisher:      Failytale, Cocktail Soft
+Game release date:   1991-09
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Deep Space                       1:21   0:44
+02 Neptune                          1:07   1:05
+03 Sweetheart                       0:48   0:48
+04 Enemy Approaching                0:13   0:12
+05 Ice Breaker                      0:27   0:27
+06 Jump Out                         0:56   0:56
+07 Say Good Bye                     0:49   0:44
+08 School                           1:07   1:05
+09 Bar                              0:41   0:41
+10 Memory                           1:16   1:15
+11 Night Walker                     0:53   0:40
+12 Killing Machine                  0:39   0:30
+13 EX...                            0:53   0:40
+14 Screaming Faust                  0:33   0:33
+15 Regrets                          1:06   0:58
+16 Settle                           0:57   0:48
+17 Darkness                         0:45   0:40
+18 Again...                         1:03   1:01
+19 Sadness                          1:00   0:56
+20 Cosmic                           0:52   0:48
+21 Sexy                             0:50   0:40
+22 Liberation                       1:12   0:32
+23 Begin                            1:45   1:44
+
+Total Length                       21:12  39:38
+
+
+Notes:
+Track Names are used in Music Mode.
+
+This pack was made using MESS0152 VGM mod.
+
+Size reduction (vgm_cmp):
+    4.61 MB -> 1.96 MB (42.5 %)
+
+
+Package history:
+1.00 2014-09-16 2ch-H: Initial release.
