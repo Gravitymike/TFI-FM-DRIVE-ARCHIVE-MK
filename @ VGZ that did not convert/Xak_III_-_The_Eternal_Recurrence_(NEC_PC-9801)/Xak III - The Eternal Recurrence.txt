@@ -1,0 +1,75 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Xak III: The Eternal
+                     Recurrence
+System:              NEC PC-9801
+Music hardware:      YM2203
+
+Music author:        Yukiharu Urita
+Game developer:      Microcabin
+Game publisher:      Microcabin
+Game release date:   1993-04-23
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main Theme from Xak III (Title)  0:18   0:16
+02 Fairless (Town of Fairless)      0:39   0:39
+03 Blood Bath (Farland Castle
+   Event)                           0:19   0:18
+04 Tensions (Wavis Army Garrison)   0:19   0:18
+05 Assault On (Assault Scene)       0:23   0:07
+06 Assault On (Assault
+   Scene)(Outro)                    0:01   -
+07 The Voice of Moon (Farland
+   Castle BGM)                      1:45   1:04
+08 Silent for the Insanity (Boss
+   Battle Type-A)                   1:16   0:46
+09 Stillness of the Nights (Town A) 0:43   0:43
+10 Gahoo the Warlock (Ginganul
+   Mountain Range)                  0:31   0:31
+11 Escape from the Tower (Gahoo
+   Tower BGM)                       0:43   0:41
+12 The Entrance to the Nightmare
+   (Before Boss)                    0:43   0:43
+13 Evil Eyes (Boss Battle Type-B)   0:42   0:42
+14 Lucifer the Black (Theme of the
+   Yaksha Knight)                   0:54   0:54
+15 Premonitions (Goloa Bay BGM)     0:29   0:29
+16 Great Wings (Ship Departure)     0:50   0:40
+17 From This Town (Town B)          0:51   0:49
+18 Forgotten Myth (Horn BGM)        0:30   -
+19 Tera Incognita (Land of Darkness
+   BGM)                             2:27   2:27
+20 Over Lord (Theme of Zomu Dizae)  1:21   0:48
+21 Oracle of Trinity (Fairy World)  1:29   1:02
+22 In The Ultimathule (Demon World
+   BGM)                             1:25   0:53
+23 Mael Strome (Maelstrom)          0:19   0:19
+24 Xexis                            0:57   0:43
+25 How Many Tears (Epilogue 1)      1:31   1:00
+26 The Eternal Recurrence (Epilogue
+   2)                               1:43   1:17
+27 Closing Credits (Credit)         1:50   -
+28 Jingle                           0:03   -
+
+Total Length                       25:03  43:12
+
+
+Notes:
+Track names are from
+"ORIGINAL GAME SOUND TRACK Xak III The
+eternal recurrence" (DPCX-5007) and
+"Xak III PC-9801 Remastered Soundtracks".
+
+This pack was made using Neko Project 21 VGM
+mod.
+
+
+Package history:
+1.00 2018-04-09 GTheGuardian: Initial release.

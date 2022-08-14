@@ -1,0 +1,60 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Veigues
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Mecano Associates
+Game developer:      Game Arts
+Game publisher:      Game Arts
+Game release date:   1988-12-16
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          3:20   -
+02 Mission 1-1 (Urban),
+   2-1 (Cave Entrance),
+   3-1 (Passage 1)                  1:06   0:49
+03 Mission 1-2 (Wasteland)          1:10   1:02
+04 Mission 1-3 (Desert),
+   2-3 (Underground Lake),
+   3-3 (Passage 2)                  1:00   0:54
+05 Mission 1-4 (Wetlands)           0:48   0:45
+06 Mission 1-5 (Forest)             0:43   0:37
+07 Mission 2-2 (Crystal)            1:08   0:33
+08 Mission 2-4
+   (Underground Volcano)            1:03   0:55
+09 Mission 2-5 (Undersea Passage)   0:45   0:43
+10 Mission 3-2 (Depot)              1:03   0:56
+11 Mission 3-4 (Plant)              0:58   0:58
+12 Mission 3-5 (Core)               1:18   1:10
+13 Boss                             0:54   0:48
+14 Intermission
+   (Provisional Ending)             1:28   -
+15 Pursuit Preparation
+   (Intermission 2) ~ Mission 4-1
+   (Enemy Giant Battleship)         0:08   0:06
+16 Mission 4-2 (Battleship Inside)  1:14   1:07
+17 Ending                           4:05   -
+
+Total Length                       22:08  33:30
+
+
+Notes:
+Track Names are used in Hoot Playlist.
+
+This pack was made using MESS0152 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    5.53 MB  -> 967 KB (17 %)
+
+
+Package history:
+1.00 2014-08-20 2ch-H: Initial release.
