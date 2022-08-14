@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Herzog
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Naosuke Arai, Tomomi Otani
+Game developer:      Tecno Soft
+Game publisher:      Tecno Soft
+Game release date:   1988
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Originate The Strategy by
+   Yourself (Opening 1)             0:46   -
+02 A Streak of Lighting Through The
+   Time (Opening 2)                 4:42   -
+03 The Previous War
+   (Scenario Map 1)                 0:26   0:24
+04 The Fighter Called 'Emergency'
+   to Base (Scenario Map 2)         0:41   0:39
+05 Back to Square One
+   (Stage 1 Mercie)                 1:08   1:06
+06 Sleight of Hand (Stage 2
+   Syutain)                         2:02   1:37
+07 Take it Easy (Stage 3 Lepson)    2:03   2:00
+08 Sniper (Stage 4 Potos)           1:02   0:59
+09 The Super Fighter Invigorated us
+   (Stage 5 Ruth)                   1:37   1:37
+10 The Dawn of a New Age (Ending)   0:29   -
+11 Funeral March for The Metal
+   Knights (Game Over)              0:30   -
+12 A Victorious Bell is Ringing 1   0:24   -
+13 A Victorious Bell is Ringing 2   0:24   -
+
+Total Length                       16:15  24:38
+
+
+Notes:
+Track Names are used in Music Mode.
+
+This pack was made using MAME164 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    831 KB   -> 399 KB (48 %)
+
+
+Package history:
+1.00 2016-03-15 2ch-H: Initial release.

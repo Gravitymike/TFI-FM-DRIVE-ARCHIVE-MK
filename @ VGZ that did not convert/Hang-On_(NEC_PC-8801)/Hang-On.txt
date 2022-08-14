@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Hang-On
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Hiroshi Kawaguchi,
+                     unknown
+Game developer:      Pax Softnica
+Game publisher:      Pax Electronica Japan
+ Licensed By:        Sega
+Game release date:   1986-12
+
+Package created by:  2ch-H
+Package version:     1.11
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            0:06   -
+02 Main Theme                       0:31   0:31
+03 Goal                             0:06   -
+04 Game Over                        0:16   -
+
+Total Length                        0:59   1:30
+
+
+Notes:
+Track Names are used in use scene
+and Hang-On / Space Harrier OST.
+
+This pack was made using MESS0148 VGM mod.
+
+Size reduction (vgm_cmp):
+    123 KB -> 29.7 KB (24.1 %)
+
+
+Package history:
+1.00 2012-11-15 2ch-H: Initial release.
+1.10 2013-07-15 2ch-H: Rerip in Mess.
+1.11 2013-12-29 2ch-H: Fixed SSG Part problems
+ that occur in EMU2149 core.

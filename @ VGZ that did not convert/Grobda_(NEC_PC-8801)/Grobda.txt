@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Grobda
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Yuriko Keino (AC),
+                     unknown (PC88)
+Game developer:      Namco (AC);
+                     Dempa (PC88)
+Game publisher:      Dempa
+Game release date:   1986-06
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Coin                             0:01   -
+02 Name Entry Music                 0:12   0:12
+03 Game Over Music                  0:02   -
+
+Total Length                        0:15   0:28
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2019-05-27 Sonic of 8!: Initial release.

@@ -1,0 +1,98 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Heart Heat Girls
+System:              NEC PC-9801
+Music hardware:      NEC PC-9801-26K (YM2203)
+
+Music author:        Panda
+Game developer:      Cat's Pro
+Game publisher:      Cat's Pro
+Game release date:   1993-12-02
+
+Package created by:  bmos, Gnome
+Package version:     1.07
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Cat's Pro Logo                   0:08   -
+02 Opening                          1:10   0:40
+03 Accident Occurred                0:19   0:19
+04 SAIT                             0:42   0:39
+05 Prehistoric Civilization         0:21   0:21
+06 Department of Defense            0:37   0:29
+07 Kurama Industries                0:46   0:46
+08 Relief                           0:34   0:33
+09 Rosewood                         0:35   0:35
+10 Danger                           0:30   0:28
+11 Machining                        1:42   0:07
+12 ACP                              1:49   1:48
+13 3D Map                           0:35   0:35
+14 Chapter                          0:22   -
+15 Shower                           0:20   0:19
+16 Infiltrate                       1:04   0:26
+17 Victor                           0:15   0:15
+18 Dawn                             0:41   0:41
+19 Mixed                            1:04   1:04
+20 Angelica's Tears                 1:48   1:47
+21 Ending                           0:46   0:44
+22 Counterattack                    1:27   1:27
+23 Reminiscence                     1:07   1:07
+24 Combat                           0:27   0:25
+25 Title                            1:30   -
+26 Unknown 01                       0:30   0:30
+27 Unknown 02                       0:58   0:58
+28 Unknown 03                       0:11   -
+
+Total Length                       22:19  39:21
+
+
+Notes:
+Really great licks in this soundtrack and a
+lot of fun to listen to. Track were translated
+from Japanese titles. s982
+
+-bmos (pixelatedaudio.com)
+
+
+Comments from Gnome:
+I really wanted to help to get this pack
+done for some time now. Obviously, I
+couldn't get to do it by playing through
+the game since I don't know Japanese and
+this game has no sound test. Luckily for me,
+Valley Bell was able to find a PC98 program
+called "Game Music Player v4", which
+acts kinda like Hoot for your game.
+However, it didn't play the original song
+files, likely due to them being encrypted,
+so I swapped them with those from a Hoot
+rip and was able to log all 27 songs.
+
+I took track names from bmos' existing pack.
+This game has no OST or even any sort of
+fan names.
+
+
+Comments from Valley Bell:
+The game contains two versions of each song:
+HHG##.USO and HHG##V.USO
+You can switch between those in the
+"FM sound source settings" menu.
+- built-in type: non-V version (default)
+  -> for onboard PC-9801-26K sound
+- external type: V version
+  -> for external PC-9801-26K sound board
+
+The VGMs were recorded from the V versions,
+which Hoot uses as well.
+
+
+Package history:
+1.00 2018-06-08 bmos: Initial release.
+1.05 2020-05-07 Gnome: Public release.
+1.06 2020-05-08 Gnome: Added Cat's Pro jingle.
+1.07 2020-07-19 Valley Bell: Added source file
+ names.
