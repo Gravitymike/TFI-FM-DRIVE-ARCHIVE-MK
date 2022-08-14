@@ -1,0 +1,153 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           The Adventures of
+                     Willy Beamish
+System:              Sega Mega CD
+Music hardware:      RF5C164
+
+Music author:        Christopher Stevens,
+                     Jan Paul Moorhead
+Game developer:      Dynamix
+Game publisher:      Sega
+Game release date:   1993
+
+Package created by:  karmic
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+001 Carbuncle Elementary            0:43   0:34
+002 Sneaking Mission                0:41   0:41
+003 Spider                          0:34   0:30
+004 Trip to the School Nurse        0:20   0:20
+005 School's History! Summer's
+    Here!                           0:38   0:16
+006 Downstairs (Day 1)              1:09   0:51
+007 Willy's Backyard                0:26   0:26
+008 Upstairs (Day 1)                1:04   1:04
+009 Daddy Has Been Pink-Slipped     0:25   0:25
+010 KOPK News                       0:13   0:06
+011 Slam Dunk Cola                  0:31   0:29
+012 Meanwhile                       0:17   0:17
+013 Leona & Louis                   0:36   0:36
+014 Grandpa's Trains                0:31   0:24
+015 Good Night, Willy               0:17   0:17
+016 Downstairs (Day 2)              1:04   0:47
+017 Gordon Calls Leona              0:33   0:29
+018 It's The Tootsweet Annual Frog
+    Jump!                           0:23   0:23
+019 Tootsweet                       0:29   0:29
+020 Washing the Grange Rover        0:20   0:15
+021 Upstairs (Day 2)                1:08   1:08
+022 The Neighborhood                0:37   0:35
+023 The Tree Fort                   0:36   0:36
+024 I Think He's In Lust            0:33   0:33
+025 The Slice of Life               1:02   0:38
+026 The Slice of Life Bathroom      0:52   0:44
+027 Escape from the Slice of Life   0:28   0:26
+028 The Park                        0:47   0:47
+029 Horny on Slam Dunk Cola         0:17   0:17
+030 The City (Days 1-2)             0:39   0:39
+031 The Babysitter from Hell!       0:19   0:13
+032 Bat Chase                       0:30   0:30
+033 Downstairs (Day 3)              1:08   1:08
+034 Leona Humpford                  0:34   0:34
+035 Tiffany Weighs Herself          0:17   0:17
+036 The City (Day 3)                0:34   0:34
+037 Tiffany, or the Bride of
+    Frankenstein                    0:09   0:09
+038 Meet the Tourists               0:38   0:26
+039 West Frumpton                   0:48   0:33
+040 Tootsweet Pavilion (Day 3)      0:51   0:49
+041 Plumber's Union                 0:45   0:45
+042 Plumber's Union Meeting         0:21   0:21
+043 The Golden Bowl                 0:26   0:21
+044 The Cripes                      0:51   0:46
+045 Escape from the Cripes          0:32   0:32
+046 Ninjas! Prepare for Battle!     0:42   0:38
+047 Dinner with the Tourists        0:36   0:31
+048 Upstairs (Day 3)                1:08   1:08
+049 Downstairs (Day 4)              1:01   1:01
+050 Leona's Plans                   0:56   0:37
+051 Upstairs (Day 4)                1:02   1:02
+052 KOPK News at the Beamish
+    Household                       0:41   0:36
+053 The City (Day 4)                0:23   0:23
+054 Ferrying to the Frog Jump       0:35   0:32
+055 Tootsweet Pavilion (Day 4)      0:34   0:34
+056 The Frog Jump                   0:20   0:20
+057 Catching the Frogs              0:20   0:19
+058 Tootsweet HQ                    0:56   0:56
+059 Interrogated by Security        0:59   0:59
+060 Horny is Caught!                0:06   0:06
+061 Select a Hypnotic Phrase        1:07   1:07
+062 Escape from Tootsweet HQ        0:29   0:29
+063 Humpford Manor                  1:23   1:19
+064 Humpford Manor's Kitchen        0:31   0:31
+065 The Frogs are Free!             0:15   0:15
+066 Caught by Leona and Louis       0:34   0:30
+067 The Frogs Free Willy!           0:19   0:19
+068 Gordon Gets Picked Up           0:20   0:20
+069 The Payphone                    1:13   0:59
+070 Inside the Golden Bowl          0:32   0:30
+071 I'm Rich! I'm Rich!             0:36   0:34
+072 Inside the Plumber's Union      1:08   0:47
+073 Louis Found Willy!              0:31   0:29
+074 Humpford Sludgeworks Entrance   1:07   1:07
+075 Humpford Sludgeworks            0:40   0:26
+076 Young Tramwalker                0:38   0:38
+077 Oddjob's Become Tootsweet       0:21   0:21
+078 The Junctions                   0:41   0:41
+079 Kicked Out of the Sludgeworks   0:12   0:12
+080 The Sludge Vat                  0:41   0:41
+081 Good End                        0:44   0:38
+082 Shipped Off to Military School  0:17   0:17
+083 Willy's in Big Trouble          1:17   1:15
+084 Duffy Runs Away                 1:00   0:38
+085 Willy's in the Hospital         0:21   0:21
+086 Go to Jail                      0:21   0:17
+087 Caught by the Bat               0:12   0:12
+088 Caught by the Cripes            0:26   0:21
+089 Horny Gets Drug-Tested          0:33   0:26
+090 Flat Broke                      0:26   0:26
+091 I Don't Think We're In Frumpton
+    Anymore                         0:09   0:09
+092 The Wrong Computer Game         0:29   0:29
+093 Humpford World                  0:28   0:28
+094 Unused 01                       0:23   0:23
+095 Unused 02                       0:12   0:12
+096 Unused 03                       0:26   0:13
+097 Unused 04                       0:27   0:20
+098 Unused 05                       0:11   0:11
+099 Unused 06                       0:28   0:28
+100 Unused 07                       0:28   0:26
+101 Unused 08                       0:39   0:38
+102 Unused 09                       0:33   0:22
+103 Unused 10                       0:23   0:21
+104 Unused 11                       0:26   0:26
+105 Unused 12                       0:43   0:26
+106 Unused 13                       0:32   0:31
+107 Unused 14                       0:21   0:15
+108 Unused 15                       0:21   0:17
+109 Unused 16                       0:17   0:17
+110 Unused 17                       0:17   0:13
+111 Unused 18                       0:49   0:34
+112 Unused 19                       0:10   0:10
+113 Unused 20                       0:51   0:51
+114 Unused 21                       0:49   0:48
+115 Unused 22                       1:35   1:32
+
+Total Length                    1:08:39 2:10:29
+
+
+Notes:
+The original game fades out the volume of the
+music after a few seconds of playing- that has
+been disabled to make these rips.
+
+
+Package history:
+1.00 2022-04-13 karmic: Initial release.
