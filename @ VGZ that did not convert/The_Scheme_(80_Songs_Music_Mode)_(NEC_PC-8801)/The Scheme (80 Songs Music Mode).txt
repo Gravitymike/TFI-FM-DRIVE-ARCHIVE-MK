@@ -1,0 +1,123 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           The Scheme
+                     (80 Songs Music Mode)
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Onion, God, C.A Taeam,
+                     Shinobu Hayashi
+Game developer:      Onion Soft
+Game publisher:      Bothtec
+Game release date:   1988-08
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Box Express Flying in The Sky    0:54   0:48
+02 Santa Train                      0:33   0:30
+03 Cross Over Gate                  0:26   0:03
+04 Morning Star                     0:23   0:19
+05 Chinese to Go Away on a
+   Motorcycle                       0:26   0:06
+06 The Dance it's Temple            0:23   0:15
+07 Development Room a Full of
+   Mystery                          0:19   0:17
+08 Mu                               0:16   -
+09 People of The City was Run Over  0:24   0:19
+10 One Way                          0:21   0:17
+11 Theme of Hayashi                 0:29   0:24
+12 Deep in Grief                    0:50   0:43
+13 Master Came to Town              0:23   0:17
+14 Sunday Favorite of Kamitama      0:32   0:25
+15 City of Asia I                   0:32   0:27
+16 Pom Pom Pom                      0:50   0:19
+17 Oriental Gale                    0:30   0:19
+18 The Majestic it's Not Just Sky   0:33   0:33
+19 Sunrise of The Zoujyouzi Temple  0:16   0:16
+20 Monkey Showman                   0:21   0:18
+21 Egypt Inadvertently              0:07   0:07
+22 Theme of Gigaikotsu              0:08   0:08
+23 Arabic Yamato                    0:35   0:06
+24 Sunset of The Zoujyouzi Temple   0:35   0:32
+25 Yamuchin Fly Away                0:17   0:17
+26 Run Yamuchin                     0:25   0:19
+27 Voice of Ghost                   0:17   0:17
+28 GoGo Kamitama                    0:32   0:31
+29 City of Asia II                  0:30   0:25
+30 Song of The Rosen                0:29   0:26
+31 Yattoko Kamedomo                 0:27   0:21
+32 Amazing Disk Theme               0:08   0:07
+33 Onitama and Kamitama is Great    0:34   0:34
+34 What Humdrum Life                0:50   0:40
+35 Amazing Silent                   0:17   -
+36 Missed The Ship!                 0:40   0:37
+37 Brawl Party                      0:21   0:21
+38 Santa Came                       0:54   0:54
+39 Why Kamitama                     0:24   -
+40 Beautiful Sound                  0:11   0:11
+41 Manhole of Dawn                  0:25   -
+42 Fantastic Dreaming               0:35   0:35
+43 Theme of Jumpper                 0:15   0:14
+44 Flute of The Devil               0:35   0:00
+45 Jumpper Over Troubled Water      0:16   0:15
+46 Reliable Thing                   0:30   0:25
+47 Morning Snow was Piled Up        0:34   0:15
+48 Left Foot of The Skeleton        0:43   0:08
+49 Theme of Haruma Game             0:32   0:29
+50 Hose that Doesn't Stop The Water 0:24   -
+51 On The Way Home Hill....         0:26   0:22
+52 Sea Storm                        0:29   0:29
+53 One Night in Town                0:28   0:14
+54 Am Happy                         0:11   -
+55 In The Morning After             0:18   0:01
+56 Arabic Numerals                  0:58   -
+57 The Heartbreak to You            0:25   0:03
+58 Great Wall of Last               0:56   0:39
+59 Test 1                           0:49   0:49
+60 Locomotive Yaemon                0:56   0:55
+61 Air Refueling                    0:26   0:24
+62 Yeah, so. That one.              0:22   0:22
+63 Theme of 100 Yen Disk (98
+   Version)                         0:42   0:40
+64 I Want to Sleep Anymore          0:49   0:38
+65 I Was Surprised                  0:21   0:21
+66 Yearend Festival                 0:19   -
+67 Whispers of The Devil            0:48   0:44
+68 Shanodeshu (Arrange Version)     0:18   -
+69 Theme of Uncle Came to Singing
+   Contest                          0:07   -
+70 Manhole of Dawn
+   (Arrange Version)                0:17   0:17
+71 Ready for Festival               0:30   0:25
+72 Reflection of The Temple         0:39   0:17
+73 Ayashoka                         0:09   0:08
+74 Sound Storm                      0:18   0:18
+75 Final Dangerous 2                0:32   -
+76 Low High                         0:22   0:21
+77 With a Splash                    0:17   0:12
+78 I was barking dogs               0:48   0:36
+79 Devos Endless Night              0:33   -
+80 Freely Gigaikotsu                0:13   0:13
+
+Total Length                      37:56 1:03:34
+
+
+Notes:
+Track Names are used in 80 Songs Music Mode.
+All songs are unused song.
+
+This pack was made using MESS0152 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    7.86 MB  -> 3.73 MB (47.4 %)
+
+
+Package history:
+1.00 2014-05-03 2ch-H: Initial release.
