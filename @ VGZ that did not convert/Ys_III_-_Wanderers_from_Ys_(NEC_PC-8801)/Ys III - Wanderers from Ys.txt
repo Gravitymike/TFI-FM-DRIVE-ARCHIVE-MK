@@ -1,0 +1,73 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Ys III: Wanderers from Ys
+System:              NEC PC-8801
+Music hardware:      YM2203
+
+Music author:        Mieko Ishikawa,
+                     Yuzo Koshiro
+Game developer:      Nihon Falcom
+Game publisher:      Nihon Falcom
+Game release date:   1989-07-21
+
+Package created by:  2ch-H
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Dancing on the Road              0:27   0:26
+02 A Premonition =Styx=             1:09   0:54
+03 Trading Town of Redmont          1:26   1:26
+04 Quiet Moments                    0:37   0:37
+05 Welcome!!                        0:26   0:26
+06 Prelude to The Adventure         1:02   0:58
+07 The Boy's Got Wings              2:01   2:00
+08 Be Careful                       1:14   0:47
+09 Dark Beasts as Black as
+   The Night                        1:23   0:38
+10 Ilberns Ruins                    1:05   0:52
+11 A Searing Struggle               1:18   1:18
+12 Snare of Darkness                0:49   0:49
+13 Shock of The Death God           0:42   0:26
+14 Quickening Dream                 0:15   -
+15 Steeling The Will to Fight       1:14   1:13
+16 Tearful Twilight                 0:37   0:35
+17 Varestain Castle                 1:26   1:13
+18 Prayer for Love                  0:26   0:26
+19 Radiant Key                      0:43   0:36
+20 Sealed Time                      0:51   0:51
+21 Beat of Destruction              0:46   0:45
+22 Tower of Destiny                 0:51   0:30
+23 Behold!!                         1:06   0:32
+24 The Strongest Foe                1:45   1:37
+25 Departure at Sunrise             3:47   1:37
+26 Wanderers from Ys                1:56   1:39
+27 Lucky Treasure Box               0:05   -
+
+Total Length                       29:25  52:37
+
+
+Notes:
+Track Names are used in Music from Ys III.
+
+This pack was made using MESS0144 VGM mod.
+
+Rhythm part of the track 9 and track 13 
+is wrong is a game bug.
+
+Track 26 of loop is correct behavior,
+there is a full version is the only 
+PC-9801 and Genesis/Mega Drive.
+
+
+Size reduction (vgm_cmp):
+    4.15 MB -> 1.66 MB (40 %)
+
+
+Package history:
+1.00 2012-11-26 2ch-H: Initial release.
+1.01 2014-02-20 2ch-H: Adjust the volume
+ for New internal volume of the SSG-Part.

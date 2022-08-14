@@ -1,0 +1,64 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Zeliard
+System:              NEC PC-8801
+Music hardware:      YM2203, YM2608
+
+Music author:        Masakuni Mitsuhashi,
+                     Hibiki Godai,
+                     Mecano Associates
+ in particular:      Fumihito Kasatani,
+                     Nobuyuki Aoshima
+Game developer:      Game Arts
+Game publisher:      Game Arts
+Game release date:   1987-12-19
+
+Package created by:  2ch-H
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Radiance of Esmeranti            2:07   -
+02 Departure                        1:00   0:48
+03 To The World of Darkness         0:46   0:46
+04 Dark Messenger                   0:58   0:52
+05 Victory                          0:14   -
+06 Subterrantean City               1:28   1:28
+07 Beyond The Caves                 1:32   1:25
+08 World of Trees                   0:54   0:54
+09 A Moment's Rest                  2:07   0:34
+10 World of Ice                     1:01   1:01
+11 World of Decay                   1:04   1:04
+12 Secluded Town                    1:13   1:09
+13 World of Gold                    1:07   1:04
+14 World of Fire                    1:04   1:04
+15 World of Wonder                  1:19   1:19
+16 Demon King                       1:13   0:58
+17 To a New Adventure               2:22   -
+18 Radiance of Esmeranti (OPNA Ver) 2:07   -
+19 Victory (OPNA Ver)               0:14   -
+20 To a New Adventure (OPNA Ver)    2:23   -
+
+Total Length                       26:14  40:38
+
+
+Notes:
+Track Names are used in
+Game Arts Best Collection.
+
+Same in OPNA and OPN (except for Radiance of
+ Esmeranti, Victory, To a New Adventure.)
+
+This pack was made using MESS0152 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    1.26 MB  -> 1.07 MB (84.9 %)
+
+
+Package history:
+1.00 2014-03-22 2ch-H: Initial release.
+1.01 2017-04-11 2ch-H: Fixed a typo.
