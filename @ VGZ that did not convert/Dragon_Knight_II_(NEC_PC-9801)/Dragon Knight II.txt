@@ -1,0 +1,104 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Dragon Knight II
+System:              NEC PC-9801
+OS:                  DOS
+Music hardware:      NEC PC-9801-26K
+                     (YM2203)
+
+Music author:        Manabu Kunieda,
+                     Yuki Ushimaru
+Game developer:      Elf Co. Ltd.
+Game publisher:      Elf Co. Ltd.
+Game release date:   1991-07-06
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Elf Logo                         0:02   -
+02 Opening 1                        0:40   0:40
+03 Opening 2                        0:38   0:37
+04 Opening 3                        0:17   0:16
+05 Opening 4                        0:31   0:30
+06 Central Plaza                    1:06   0:52
+07 Elder's House                    0:41   0:41
+08 Cemetery                         0:36   0:36
+09 Skinhead Weapon Dealer           0:45   0:41
+10 Magician's House                 0:35   0:34
+11 Silver Silver Pharmacy           0:44   0:44
+12 Cat Bar                          1:07   1:02
+13 The Free Inn                     0:52   0:51
+14 Cemetery Underground             0:56   0:56
+15 Mummy                            0:38   0:38
+16 Gas Cloud                        0:31   0:31
+17 Kobold                           0:30   0:30
+18 Bubbly Bubble                    0:29   0:29
+19 Tower Floor 1                    0:55   0:55
+20 Werewolf                         0:29   0:29
+21 G. Spider                        0:32   0:31
+22 Coyote                           0:32   0:32
+23 Thief                            0:39   0:39
+24 Tower Floor 2                    0:51   0:51
+25 Orc                              0:37   0:36
+26 Heiji                            0:36   0:36
+27 Anaconda                         0:26   0:26
+28 Bunny                            0:27   0:26
+29 Tower Floor 3                    0:58   0:56
+30 Harpy                            0:33   0:33
+31 Evil Priest                      0:31   0:31
+32 Pierrot                          0:32   0:32
+33 Europa                           0:29   0:29
+34 Game Over                        0:44   0:44
+35 Tower Floor 4                    0:57   0:57
+36 Berserker                        0:34   0:30
+37 Lizard Puppy                     0:27   0:27
+38 Red Lizard                       0:19   0:19
+39 Ninja                            0:29   0:29
+40 Tower Floor 5                    1:08   1:08
+41 Angel                            0:35   0:35
+42 Fairy                            0:35   0:35
+43 Unicorn                          0:33   0:33
+44 Bengal Tiger                     0:26   0:26
+45 Tower Floor 6                    0:55   0:55
+46 Elf Mage                         0:27   0:27
+47 Pansy                            0:26   0:26
+48 Centaur                          0:25   0:25
+49 Evil Witch                       0:31   0:31
+50 Mesaanya                         0:33   0:32
+51 Ending 1                         0:40   0:33
+52 Ending 2                         0:41   0:41
+53 Ending 3                         1:02   1:02
+54 Ending 4                         0:33   0:33
+55 Appear                           0:33   0:33
+56 SFX (GATASM)                     0:04   -
+57 SFX (HOLE)                       0:03   -
+58 SFX (KIMKIM)                     0:14   -
+59 SFX (MCHANG)                     0:09   -
+60 SFX (MESATI)                     0:03   -
+61 SFX (MEZAME)                     0:12   -
+62 SFX (WARP)                       0:09   -
+
+Total Length                      35:13 1:08:41
+
+
+Notes:
+Playback via PLAY3 in Neko Project II mod
+
+Track titles based off the OST track list:
+   http://vgmdb.net/album/801
+
+Songs not on the OST were taken from the hoot
+XML playlists from the original PC-98 version.
+
+Size reduction (vgm_cmp):
+   6.02 MB -> 1.75 MB (29.1 %)
+
+
+Package history:
+1.00 2014-12-24 dj.tuBIG/MaliceX: Initial rel.
+1.01 2014-12-25 dj.tuBIG/MaliceX: tag fix
