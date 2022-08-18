@@ -3,6 +3,7 @@
 
 ![megadrive yest](https://user-images.githubusercontent.com/69438403/185092387-c8ff5ac0-0e8b-461c-b79d-7dd52317f74c.gif)
 
+![sega](https://user-images.githubusercontent.com/69438403/185294838-4f47eb9a-b92d-450b-a7e9-cc8ffc9ac1ea.gif)
 
 Description:
 
