@@ -6,7 +6,7 @@
 30 years later......
 
 ![sega](https://user-images.githubusercontent.com/69438403/185294838-4f47eb9a-b92d-450b-a7e9-cc8ffc9ac1ea.gif)
-
+"!!!!SEGA!!!!"
 nope, "ive got this guy coming over to watch a DVD"
 
 Description:
