@@ -9,7 +9,7 @@
 
 "!!!!SEGA!!!!"
 
-nope, "ive got this guy coming over to watch a DVD"
+nope, "ive got this guy coming over to watch a DVD" , HE'S BEAING IN NOW !!!!!
 
 Description:
 
