@@ -7,6 +7,8 @@
 
 ![sega](https://user-images.githubusercontent.com/69438403/185294838-4f47eb9a-b92d-450b-a7e9-cc8ffc9ac1ea.gif)
 
+nope, "ive got this guy coming over to watch a DVD"
+
 Description:
 
 An Archive of .tfi file presets, for use with FM-Drive and the Deflemask Tracker, Renoise/Redux, Also, Varied External Hardware.
